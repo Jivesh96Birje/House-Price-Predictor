@@ -1,0 +1,1001 @@
+Location,Size (sqft),BHK,Bathrooms,Price (INR),Property Type,Age of Property (years),Furnishing Status,Transaction Type,Floor Number,Total Floors,Parking,Nearby Amenity
+Amravati,1836,1,4,49500000,Studio Apartment,5,Semi-furnished,Resale,20,21,3,Hospital Nearby
+Amravati,2449,4,1,45300000,Penthouse,26,Furnished,New Booking,12,38,2,Gym
+Nashik,2620,5,2,36800000,Studio Apartment,19,Semi-furnished,New Booking,11,15,0,Park
+Mumbai,2741,1,1,20300000,Studio Apartment,9,Semi-furnished,New Booking,21,36,3,Park
+Mumbai,4186,5,4,43300000,Studio Apartment,19,Unfurnished,Resale,24,40,0,Swimming Pool
+Nashik,3684,4,3,11100000,Studio Apartment,5,Furnished,New Booking,1,33,2,Mall Nearby
+Solapur,1587,1,3,16700000,Apartment,29,Semi-furnished,New Booking,12,23,2,Park
+Solapur,2902,1,1,27600000,Apartment,22,Furnished,New Booking,15,18,1,Swimming Pool
+Solapur,1497,4,1,43200000,Studio Apartment,14,Furnished,New Booking,23,30,2,Park
+Mumbai,4633,5,2,26200000,Apartment,12,Furnished,New Booking,17,22,1,Swimming Pool
+Pune,3598,1,4,40100000,Apartment,25,Unfurnished,Resale,6,10,3,Gym
+Amravati,1206,3,1,9900000,Penthouse,16,Furnished,New Booking,8,15,3,Gym
+Nagpur,801,5,4,41100000,Villa,0,Semi-furnished,New Booking,10,36,1,Gym
+Solapur,2534,2,2,32500000,Villa,14,Semi-furnished,Resale,15,28,3,Hospital Nearby
+Thane,2879,5,3,47600000,Apartment,10,Furnished,New Booking,27,35,3,Swimming Pool
+Kolhapur,4089,5,1,22200000,Penthouse,18,Unfurnished,Resale,16,39,3,Mall Nearby
+Amravati,362,3,2,2300000,Independent House,1,Furnished,Resale,6,39,1,Park
+Pune,655,2,3,33700000,Apartment,11,Furnished,New Booking,11,20,3,Park
+Nagpur,1350,1,1,3100000,Studio Apartment,3,Furnished,New Booking,27,32,2,School Nearby
+Nagpur,2082,2,4,2100000,Apartment,10,Semi-furnished,New Booking,13,15,2,School Nearby
+Mumbai,4994,2,2,5600000,Apartment,3,Furnished,Resale,28,28,3,Mall Nearby
+Nashik,1663,1,1,27000000,Independent House,1,Semi-furnished,Resale,16,37,0,Hospital Nearby
+Mumbai,4645,3,3,39100000,Independent House,13,Semi-furnished,Resale,24,36,1,Swimming Pool
+Nashik,690,1,2,25400000,Studio Apartment,5,Furnished,New Booking,18,21,3,Mall Nearby
+Nashik,611,2,2,19300000,Penthouse,5,Semi-furnished,Resale,8,24,2,Swimming Pool
+Thane,2842,1,2,45400000,Apartment,29,Unfurnished,Resale,17,23,2,Mall Nearby
+Aurangabad,2520,3,2,25500000,Independent House,26,Semi-furnished,New Booking,5,27,2,Swimming Pool
+Solapur,3576,2,2,2400000,Penthouse,14,Unfurnished,Resale,6,37,3,Hospital Nearby
+Nashik,3786,4,3,5200000,Independent House,19,Semi-furnished,New Booking,24,39,0,Mall Nearby
+Sangli,3365,3,3,18600000,Penthouse,25,Unfurnished,Resale,8,8,1,School Nearby
+Nashik,2563,1,4,19200000,Penthouse,21,Furnished,Resale,5,25,0,School Nearby
+Kolhapur,4714,1,4,32900000,Penthouse,26,Semi-furnished,New Booking,2,18,3,Swimming Pool
+Aurangabad,958,4,1,39400000,Independent House,23,Semi-furnished,New Booking,22,36,2,Park
+Solapur,386,4,4,15700000,Independent House,18,Unfurnished,New Booking,6,10,2,Hospital Nearby
+Aurangabad,3173,5,2,4300000,Apartment,0,Furnished,New Booking,11,20,2,Gym
+Thane,3453,1,3,36000000,Apartment,6,Unfurnished,New Booking,2,3,1,Park
+Sangli,1714,1,2,33700000,Independent House,17,Furnished,Resale,12,22,3,Park
+Kolhapur,364,5,4,47600000,Studio Apartment,22,Semi-furnished,Resale,29,37,2,Swimming Pool
+Thane,2343,3,1,16600000,Villa,15,Unfurnished,Resale,6,23,2,Mall Nearby
+Sangli,4180,2,1,29500000,Penthouse,20,Unfurnished,Resale,22,35,0,Park
+Pune,4288,1,4,28400000,Studio Apartment,11,Unfurnished,Resale,6,31,3,Swimming Pool
+Solapur,2815,4,2,48600000,Studio Apartment,9,Furnished,New Booking,25,34,0,Swimming Pool
+Thane,363,1,4,14600000,Villa,22,Semi-furnished,Resale,4,16,3,Gym
+Solapur,4975,2,4,1300000,Apartment,14,Semi-furnished,New Booking,28,30,1,School Nearby
+Nagpur,4925,4,1,26300000,Independent House,28,Furnished,Resale,16,35,2,School Nearby
+Nashik,3144,5,4,9300000,Independent House,23,Semi-furnished,Resale,17,39,3,Park
+Aurangabad,3118,2,4,45200000,Studio Apartment,25,Furnished,Resale,29,39,0,Park
+Nagpur,1756,3,4,15500000,Apartment,15,Furnished,New Booking,13,22,1,Hospital Nearby
+Nashik,3268,5,3,13400000,Studio Apartment,11,Unfurnished,New Booking,16,23,0,Gym
+Nagpur,986,4,4,40500000,Apartment,9,Unfurnished,Resale,20,25,1,Swimming Pool
+Nagpur,2030,1,3,36400000,Independent House,19,Furnished,Resale,25,35,0,Hospital Nearby
+Sangli,376,4,4,21400000,Penthouse,28,Unfurnished,New Booking,6,19,1,Park
+Amravati,3082,5,4,14500000,Studio Apartment,23,Unfurnished,Resale,14,36,1,Mall Nearby
+Aurangabad,4166,3,2,6400000,Apartment,10,Unfurnished,Resale,3,3,0,Swimming Pool
+Amravati,4531,1,1,20900000,Villa,25,Furnished,Resale,3,27,2,Swimming Pool
+Mumbai,3116,3,2,31400000,Penthouse,27,Unfurnished,New Booking,17,25,0,Swimming Pool
+Nagpur,1284,5,2,26700000,Penthouse,12,Furnished,Resale,20,25,2,Swimming Pool
+Mumbai,2028,1,3,27500000,Studio Apartment,20,Semi-furnished,New Booking,27,27,0,Mall Nearby
+Mumbai,1092,1,2,23700000,Apartment,11,Semi-furnished,New Booking,18,28,1,Gym
+Amravati,2809,1,1,6800000,Villa,6,Furnished,New Booking,5,13,2,Gym
+Nagpur,4889,2,2,26900000,Apartment,12,Furnished,New Booking,22,39,1,Gym
+Nashik,4533,1,3,30000000,Apartment,19,Semi-furnished,New Booking,4,4,2,Park
+Nagpur,3522,1,1,1200000,Independent House,4,Semi-furnished,Resale,28,39,0,School Nearby
+Mumbai,2993,1,2,48000000,Penthouse,19,Unfurnished,New Booking,15,40,3,Mall Nearby
+Aurangabad,3098,4,1,8900000,Penthouse,15,Furnished,Resale,7,31,1,Hospital Nearby
+Pune,927,1,4,11900000,Penthouse,11,Furnished,Resale,18,27,3,Hospital Nearby
+Amravati,3055,2,1,14700000,Studio Apartment,16,Semi-furnished,Resale,21,38,2,Gym
+Solapur,2898,3,1,42700000,Penthouse,14,Unfurnished,New Booking,24,37,2,Gym
+Nagpur,2369,4,2,21500000,Villa,8,Furnished,New Booking,13,34,1,Hospital Nearby
+Mumbai,877,4,4,48400000,Apartment,15,Unfurnished,Resale,9,18,3,Park
+Amravati,2816,3,2,5000000,Studio Apartment,2,Furnished,New Booking,14,30,1,Park
+Amravati,4905,1,3,6500000,Penthouse,18,Furnished,Resale,1,24,3,Park
+Solapur,2766,4,4,25900000,Independent House,17,Semi-furnished,Resale,19,32,0,Gym
+Aurangabad,588,4,3,29000000,Apartment,9,Semi-furnished,Resale,7,35,1,Park
+Sangli,1938,5,3,8300000,Apartment,27,Unfurnished,Resale,14,15,0,School Nearby
+Nashik,652,2,4,5700000,Studio Apartment,0,Semi-furnished,Resale,25,37,1,Park
+Nashik,2309,4,4,23400000,Studio Apartment,13,Unfurnished,New Booking,21,31,3,Hospital Nearby
+Nagpur,427,2,4,31500000,Villa,11,Semi-furnished,New Booking,17,38,0,Swimming Pool
+Kolhapur,1958,4,3,21600000,Penthouse,21,Semi-furnished,New Booking,12,38,2,School Nearby
+Thane,4479,2,2,36600000,Apartment,8,Semi-furnished,Resale,1,18,0,Park
+Nagpur,2899,1,1,40600000,Independent House,6,Unfurnished,New Booking,14,31,1,Gym
+Sangli,4721,4,3,26600000,Independent House,20,Semi-furnished,Resale,4,33,1,Mall Nearby
+Mumbai,2897,5,1,5900000,Apartment,29,Furnished,New Booking,16,39,0,Gym
+Mumbai,3753,3,3,8200000,Independent House,14,Unfurnished,Resale,30,37,2,Mall Nearby
+Solapur,1584,5,2,2500000,Penthouse,15,Unfurnished,New Booking,20,40,1,Swimming Pool
+Thane,1040,2,3,27000000,Penthouse,12,Semi-furnished,Resale,1,9,3,Mall Nearby
+Nagpur,1034,1,4,28400000,Penthouse,2,Unfurnished,New Booking,11,19,1,Swimming Pool
+Sangli,3052,1,4,7600000,Villa,10,Unfurnished,New Booking,5,25,2,Gym
+Sangli,2557,5,2,23200000,Penthouse,9,Semi-furnished,Resale,9,32,1,Hospital Nearby
+Thane,3258,1,4,28500000,Independent House,17,Unfurnished,New Booking,18,34,3,Mall Nearby
+Pune,2633,2,1,23300000,Independent House,29,Semi-furnished,New Booking,28,38,1,School Nearby
+Thane,4959,4,1,13500000,Villa,11,Unfurnished,New Booking,22,37,2,Mall Nearby
+Pune,3083,5,2,34300000,Penthouse,18,Semi-furnished,New Booking,17,21,1,Hospital Nearby
+Kolhapur,1221,5,1,28900000,Apartment,11,Furnished,Resale,16,36,1,Swimming Pool
+Amravati,3306,5,4,9500000,Studio Apartment,16,Semi-furnished,Resale,13,24,0,Park
+Mumbai,1934,3,4,47400000,Apartment,6,Semi-furnished,New Booking,3,7,1,Gym
+Mumbai,1794,4,3,29800000,Villa,7,Furnished,New Booking,3,4,2,Park
+Nagpur,4253,5,4,29300000,Independent House,17,Unfurnished,Resale,29,40,2,Mall Nearby
+Solapur,1152,4,4,42300000,Studio Apartment,15,Semi-furnished,Resale,7,27,3,Park
+Nashik,813,3,1,8000000,Penthouse,27,Unfurnished,Resale,25,31,0,Hospital Nearby
+Pune,4976,4,1,16100000,Independent House,7,Semi-furnished,New Booking,16,34,2,School Nearby
+Sangli,709,5,1,3900000,Studio Apartment,17,Furnished,Resale,16,21,2,Swimming Pool
+Sangli,4912,4,2,7700000,Studio Apartment,22,Semi-furnished,Resale,8,16,3,School Nearby
+Kolhapur,3801,2,2,29700000,Penthouse,4,Unfurnished,New Booking,3,4,0,Park
+Nashik,4399,4,2,47800000,Independent House,0,Semi-furnished,Resale,4,10,1,Gym
+Nashik,4119,2,1,21500000,Studio Apartment,28,Unfurnished,New Booking,14,29,0,School Nearby
+Amravati,3219,1,1,48000000,Studio Apartment,26,Semi-furnished,Resale,12,39,3,Park
+Mumbai,1441,3,1,19000000,Villa,24,Semi-furnished,New Booking,27,32,2,Park
+Sangli,4069,2,1,2300000,Studio Apartment,29,Furnished,New Booking,2,10,1,Hospital Nearby
+Sangli,1371,1,4,29500000,Apartment,14,Furnished,New Booking,30,39,2,Park
+Mumbai,850,1,4,45200000,Studio Apartment,14,Furnished,New Booking,23,32,3,Mall Nearby
+Nagpur,316,1,2,38400000,Penthouse,16,Unfurnished,Resale,25,31,0,Hospital Nearby
+Thane,1697,4,4,12600000,Apartment,26,Unfurnished,Resale,1,17,1,Gym
+Thane,3326,1,1,35600000,Independent House,3,Furnished,Resale,16,32,0,Park
+Amravati,1065,4,2,36900000,Studio Apartment,27,Semi-furnished,New Booking,1,25,2,Mall Nearby
+Nagpur,695,3,3,42800000,Villa,1,Semi-furnished,New Booking,30,40,2,Park
+Sangli,3387,5,4,41600000,Villa,22,Unfurnished,Resale,1,37,3,School Nearby
+Pune,1088,5,4,31400000,Apartment,16,Furnished,Resale,19,40,1,School Nearby
+Nagpur,3586,4,3,37400000,Independent House,12,Furnished,Resale,27,28,2,Park
+Solapur,2846,5,1,1200000,Villa,27,Unfurnished,Resale,20,30,3,Mall Nearby
+Pune,3890,4,4,9600000,Studio Apartment,5,Semi-furnished,Resale,16,33,3,Gym
+Sangli,3572,2,3,24800000,Apartment,26,Semi-furnished,Resale,21,35,3,Hospital Nearby
+Solapur,1356,5,4,39800000,Independent House,11,Semi-furnished,New Booking,16,40,1,Swimming Pool
+Amravati,2106,3,1,14000000,Independent House,5,Semi-furnished,Resale,23,37,0,Hospital Nearby
+Nagpur,2236,5,2,2700000,Penthouse,28,Semi-furnished,Resale,9,15,2,Mall Nearby
+Nashik,4007,2,4,14500000,Villa,6,Unfurnished,New Booking,25,27,1,School Nearby
+Thane,2688,2,1,24900000,Studio Apartment,26,Semi-furnished,New Booking,25,27,3,Mall Nearby
+Nagpur,2491,1,2,2300000,Apartment,21,Unfurnished,New Booking,2,39,2,Mall Nearby
+Amravati,3068,3,2,25900000,Independent House,26,Furnished,Resale,7,38,1,Park
+Solapur,1616,4,2,30200000,Studio Apartment,23,Furnished,New Booking,25,28,0,Park
+Mumbai,4851,1,1,2000000,Independent House,15,Furnished,Resale,11,34,3,Hospital Nearby
+Solapur,4704,2,2,10400000,Penthouse,9,Unfurnished,Resale,14,16,2,Park
+Solapur,3476,4,1,5900000,Independent House,17,Unfurnished,New Booking,6,24,0,Park
+Mumbai,1350,3,1,49300000,Villa,12,Semi-furnished,Resale,9,40,3,Mall Nearby
+Kolhapur,317,5,1,46200000,Independent House,23,Semi-furnished,New Booking,14,23,3,Gym
+Amravati,1856,4,1,2300000,Penthouse,15,Unfurnished,Resale,28,35,2,Swimming Pool
+Nagpur,316,2,2,4100000,Apartment,28,Furnished,New Booking,15,39,3,Gym
+Nashik,2392,2,1,10600000,Villa,17,Furnished,New Booking,6,12,1,Hospital Nearby
+Pune,492,3,1,22900000,Villa,0,Semi-furnished,Resale,8,40,2,Gym
+Pune,3356,4,4,31200000,Villa,19,Semi-furnished,New Booking,7,20,0,Mall Nearby
+Mumbai,4312,1,1,42800000,Villa,25,Furnished,Resale,22,29,3,School Nearby
+Thane,2026,5,3,30000000,Villa,25,Semi-furnished,New Booking,23,37,3,Hospital Nearby
+Aurangabad,2441,2,1,36600000,Penthouse,12,Unfurnished,New Booking,20,28,0,Hospital Nearby
+Kolhapur,4429,5,3,29000000,Villa,4,Unfurnished,Resale,22,23,1,Gym
+Solapur,2674,2,1,49000000,Studio Apartment,29,Semi-furnished,New Booking,21,29,0,Park
+Aurangabad,2608,5,4,1400000,Villa,25,Furnished,New Booking,14,19,0,Mall Nearby
+Solapur,3703,5,1,32500000,Studio Apartment,14,Semi-furnished,New Booking,24,28,3,Park
+Mumbai,542,1,4,32600000,Independent House,27,Semi-furnished,Resale,2,8,1,Gym
+Amravati,3939,2,4,28900000,Penthouse,26,Semi-furnished,New Booking,22,28,3,Mall Nearby
+Nashik,2950,3,4,29500000,Independent House,7,Unfurnished,New Booking,1,37,0,Park
+Nagpur,2583,3,1,14700000,Villa,1,Furnished,New Booking,12,19,1,Swimming Pool
+Sangli,1458,1,3,29400000,Villa,0,Furnished,New Booking,14,16,3,Hospital Nearby
+Solapur,2891,3,3,7000000,Studio Apartment,20,Semi-furnished,Resale,6,31,0,Swimming Pool
+Mumbai,4091,1,4,21500000,Villa,11,Furnished,New Booking,28,29,3,Gym
+Sangli,2429,3,2,18600000,Penthouse,21,Semi-furnished,New Booking,30,37,0,Mall Nearby
+Pune,3316,1,2,37600000,Villa,15,Semi-furnished,New Booking,4,35,1,Gym
+Pune,1364,4,4,46000000,Independent House,16,Semi-furnished,Resale,9,9,0,Swimming Pool
+Solapur,1737,2,4,31000000,Apartment,25,Furnished,New Booking,28,32,3,Gym
+Aurangabad,2821,5,1,46300000,Studio Apartment,29,Semi-furnished,Resale,19,27,3,Park
+Amravati,868,4,3,8300000,Penthouse,18,Semi-furnished,New Booking,10,15,2,Swimming Pool
+Mumbai,936,1,2,16300000,Apartment,20,Furnished,New Booking,24,25,2,Swimming Pool
+Pune,2343,3,1,31700000,Studio Apartment,14,Unfurnished,New Booking,7,34,0,Mall Nearby
+Thane,2528,2,2,23400000,Studio Apartment,6,Furnished,New Booking,9,37,3,Gym
+Mumbai,4914,2,4,35500000,Villa,14,Furnished,Resale,2,37,3,Park
+Nashik,2328,2,4,43200000,Penthouse,28,Semi-furnished,New Booking,29,34,2,Swimming Pool
+Amravati,2446,5,2,37000000,Villa,23,Furnished,New Booking,29,29,2,Mall Nearby
+Mumbai,2821,4,4,10900000,Independent House,9,Semi-furnished,New Booking,2,12,1,Mall Nearby
+Sangli,2843,5,1,10400000,Studio Apartment,8,Unfurnished,Resale,2,3,2,School Nearby
+Nagpur,1082,1,1,40600000,Villa,20,Furnished,Resale,8,18,3,Mall Nearby
+Thane,359,3,2,27700000,Penthouse,28,Semi-furnished,New Booking,15,16,0,Park
+Nashik,457,2,4,21900000,Penthouse,12,Semi-furnished,New Booking,6,26,3,Park
+Nagpur,4698,4,4,14600000,Apartment,26,Unfurnished,New Booking,16,31,2,Mall Nearby
+Thane,1138,3,4,14900000,Independent House,25,Semi-furnished,New Booking,4,39,3,Park
+Thane,4461,3,1,47700000,Studio Apartment,21,Furnished,New Booking,8,26,3,School Nearby
+Solapur,2407,1,1,2700000,Independent House,11,Unfurnished,Resale,16,21,0,Swimming Pool
+Mumbai,741,1,3,7600000,Apartment,11,Unfurnished,Resale,12,13,2,Park
+Mumbai,2817,4,3,17500000,Studio Apartment,6,Unfurnished,New Booking,24,24,1,School Nearby
+Sangli,1848,1,2,21400000,Studio Apartment,20,Furnished,Resale,3,12,0,Mall Nearby
+Nagpur,2566,2,1,42000000,Villa,15,Semi-furnished,New Booking,9,25,0,School Nearby
+Sangli,3498,4,4,27100000,Apartment,10,Furnished,Resale,13,24,1,School Nearby
+Thane,4121,2,2,37900000,Studio Apartment,5,Semi-furnished,New Booking,27,35,3,School Nearby
+Nagpur,3620,1,1,13700000,Villa,17,Unfurnished,Resale,24,35,0,Swimming Pool
+Aurangabad,4893,2,4,40100000,Independent House,8,Semi-furnished,New Booking,29,35,0,School Nearby
+Thane,1962,4,2,3000000,Studio Apartment,21,Semi-furnished,New Booking,19,20,3,Park
+Solapur,4471,5,3,41500000,Villa,24,Furnished,New Booking,10,33,1,Hospital Nearby
+Thane,4261,1,3,42600000,Studio Apartment,16,Furnished,New Booking,4,32,1,Hospital Nearby
+Kolhapur,4829,4,1,1000000,Penthouse,4,Furnished,Resale,17,19,3,Hospital Nearby
+Pune,3992,2,1,29600000,Villa,3,Unfurnished,New Booking,22,40,3,School Nearby
+Nagpur,1187,5,2,42200000,Penthouse,29,Unfurnished,New Booking,26,36,1,Mall Nearby
+Kolhapur,4832,5,4,35000000,Apartment,7,Unfurnished,Resale,9,37,0,Gym
+Sangli,4535,4,3,14900000,Independent House,26,Furnished,New Booking,12,32,0,Mall Nearby
+Nagpur,4742,3,2,39700000,Penthouse,30,Unfurnished,New Booking,6,25,0,School Nearby
+Nashik,4630,3,2,6300000,Independent House,4,Furnished,New Booking,2,24,3,Mall Nearby
+Solapur,4828,3,1,48800000,Penthouse,24,Furnished,Resale,2,14,0,Mall Nearby
+Sangli,1777,1,1,16600000,Penthouse,30,Furnished,New Booking,26,30,1,Park
+Mumbai,2533,3,3,23400000,Apartment,20,Furnished,New Booking,30,33,3,Swimming Pool
+Nagpur,1010,2,3,22400000,Apartment,27,Furnished,Resale,19,30,1,School Nearby
+Pune,2055,4,4,42300000,Villa,21,Semi-furnished,New Booking,15,27,1,Hospital Nearby
+Thane,3242,4,3,18200000,Penthouse,2,Furnished,New Booking,23,39,3,Hospital Nearby
+Aurangabad,1442,2,3,8100000,Independent House,17,Furnished,Resale,25,25,2,School Nearby
+Nagpur,2523,3,2,42800000,Independent House,21,Furnished,Resale,17,33,1,Mall Nearby
+Amravati,4511,4,3,48100000,Villa,7,Semi-furnished,Resale,6,33,0,Mall Nearby
+Kolhapur,4668,2,2,12000000,Penthouse,11,Unfurnished,Resale,23,39,2,Gym
+Kolhapur,4372,4,3,35600000,Independent House,27,Semi-furnished,New Booking,27,31,1,School Nearby
+Sangli,4979,5,2,15300000,Apartment,9,Unfurnished,New Booking,3,34,3,Gym
+Nagpur,4646,3,2,22100000,Independent House,12,Unfurnished,New Booking,10,21,2,Mall Nearby
+Mumbai,4808,3,4,12000000,Apartment,11,Unfurnished,New Booking,14,21,3,Swimming Pool
+Thane,1498,4,4,40800000,Penthouse,25,Semi-furnished,Resale,20,24,1,Mall Nearby
+Kolhapur,4641,2,1,40800000,Apartment,6,Unfurnished,Resale,27,32,2,School Nearby
+Mumbai,1379,1,1,27000000,Villa,29,Furnished,Resale,4,33,2,Park
+Mumbai,1786,5,3,43400000,Villa,9,Furnished,New Booking,28,39,1,Swimming Pool
+Solapur,2310,2,4,20400000,Studio Apartment,8,Furnished,Resale,22,37,1,Hospital Nearby
+Kolhapur,1298,3,4,33700000,Penthouse,4,Furnished,Resale,25,33,2,School Nearby
+Solapur,2662,2,2,26100000,Independent House,3,Furnished,New Booking,6,29,2,Park
+Solapur,909,3,2,17500000,Apartment,15,Unfurnished,Resale,22,25,2,Swimming Pool
+Kolhapur,3375,5,4,19800000,Studio Apartment,13,Unfurnished,Resale,5,24,3,School Nearby
+Sangli,912,4,2,28900000,Villa,8,Furnished,Resale,7,30,3,Mall Nearby
+Thane,2641,3,1,48400000,Independent House,23,Semi-furnished,New Booking,3,7,2,Park
+Nagpur,3328,4,1,40200000,Apartment,4,Semi-furnished,Resale,27,33,3,Mall Nearby
+Nashik,1887,5,3,49100000,Villa,2,Semi-furnished,New Booking,23,27,1,Swimming Pool
+Thane,670,1,1,15300000,Villa,5,Furnished,New Booking,18,20,0,School Nearby
+Nagpur,4571,3,4,39200000,Independent House,15,Semi-furnished,Resale,27,29,2,Hospital Nearby
+Sangli,2243,3,3,38000000,Independent House,8,Furnished,Resale,15,19,3,Gym
+Nagpur,1531,4,1,26400000,Apartment,27,Furnished,New Booking,6,37,1,Hospital Nearby
+Pune,2671,3,2,16500000,Villa,20,Semi-furnished,Resale,25,33,3,Gym
+Solapur,1857,3,2,44800000,Penthouse,21,Unfurnished,Resale,9,9,2,Swimming Pool
+Sangli,3375,4,3,18300000,Apartment,29,Furnished,New Booking,14,23,2,School Nearby
+Thane,4956,1,2,29000000,Independent House,7,Unfurnished,Resale,9,39,1,Park
+Sangli,831,2,4,2600000,Studio Apartment,27,Unfurnished,New Booking,29,33,2,Hospital Nearby
+Nashik,2578,5,2,5100000,Apartment,25,Furnished,Resale,29,34,0,Swimming Pool
+Nagpur,1102,4,1,18800000,Penthouse,30,Semi-furnished,New Booking,3,32,0,Gym
+Pune,1296,2,1,5500000,Independent House,6,Semi-furnished,Resale,22,25,0,Mall Nearby
+Mumbai,4349,1,3,36200000,Villa,15,Furnished,New Booking,9,9,3,Gym
+Amravati,2736,1,1,15400000,Studio Apartment,0,Semi-furnished,Resale,14,30,1,School Nearby
+Mumbai,1930,4,1,6000000,Villa,24,Furnished,Resale,6,35,2,Gym
+Nagpur,4292,3,1,38900000,Independent House,27,Unfurnished,Resale,13,16,2,Hospital Nearby
+Amravati,851,5,3,46600000,Penthouse,10,Semi-furnished,New Booking,3,10,3,School Nearby
+Solapur,1921,1,4,23100000,Penthouse,7,Unfurnished,New Booking,24,30,2,School Nearby
+Solapur,4063,4,1,16700000,Independent House,11,Furnished,New Booking,28,38,3,Swimming Pool
+Nagpur,1886,3,4,5800000,Penthouse,24,Unfurnished,New Booking,27,39,3,School Nearby
+Thane,1794,1,3,36700000,Villa,7,Furnished,New Booking,23,23,1,Park
+Thane,1335,5,1,14900000,Independent House,17,Unfurnished,New Booking,9,30,3,Swimming Pool
+Thane,3828,3,3,27800000,Penthouse,4,Unfurnished,New Booking,13,20,1,Gym
+Thane,1145,1,3,48400000,Apartment,19,Furnished,New Booking,13,23,1,Swimming Pool
+Amravati,2520,2,3,35700000,Studio Apartment,21,Furnished,Resale,9,40,2,School Nearby
+Nashik,4335,1,4,40000000,Villa,4,Furnished,New Booking,18,21,0,Hospital Nearby
+Solapur,2444,4,1,35700000,Penthouse,10,Semi-furnished,Resale,12,29,0,Mall Nearby
+Mumbai,1795,4,2,27900000,Villa,19,Semi-furnished,Resale,17,17,0,School Nearby
+Thane,3797,4,1,43100000,Independent House,19,Unfurnished,Resale,6,6,2,School Nearby
+Solapur,3758,3,2,31900000,Studio Apartment,26,Furnished,Resale,5,35,3,Swimming Pool
+Aurangabad,4423,3,2,32700000,Studio Apartment,20,Unfurnished,Resale,9,31,1,Gym
+Mumbai,2848,5,3,32100000,Penthouse,21,Furnished,Resale,2,31,1,School Nearby
+Aurangabad,4200,3,3,38000000,Penthouse,18,Furnished,Resale,14,38,3,Park
+Thane,3290,3,4,16500000,Independent House,16,Semi-furnished,New Booking,25,30,1,Gym
+Kolhapur,2099,1,3,11100000,Apartment,24,Furnished,Resale,22,24,1,Gym
+Amravati,942,5,4,30100000,Villa,6,Semi-furnished,New Booking,8,38,2,Gym
+Kolhapur,1714,5,2,44500000,Villa,15,Furnished,New Booking,25,35,1,Hospital Nearby
+Aurangabad,2576,1,1,1100000,Apartment,4,Furnished,Resale,17,18,3,Hospital Nearby
+Kolhapur,1815,3,1,21600000,Independent House,26,Semi-furnished,Resale,23,29,3,Park
+Kolhapur,3580,2,2,39200000,Studio Apartment,23,Furnished,Resale,7,39,1,Hospital Nearby
+Sangli,4578,2,2,24100000,Villa,16,Semi-furnished,Resale,18,19,0,Hospital Nearby
+Kolhapur,2953,3,4,38500000,Independent House,16,Unfurnished,New Booking,25,28,2,Hospital Nearby
+Nagpur,3030,4,2,33000000,Apartment,10,Furnished,New Booking,6,23,3,Hospital Nearby
+Thane,850,2,1,6200000,Independent House,25,Unfurnished,Resale,17,18,0,Swimming Pool
+Aurangabad,2188,5,3,23600000,Studio Apartment,8,Unfurnished,Resale,12,33,1,Hospital Nearby
+Aurangabad,4123,5,2,3200000,Apartment,10,Furnished,Resale,4,8,3,Swimming Pool
+Solapur,2003,5,3,22200000,Apartment,5,Unfurnished,New Booking,19,37,3,School Nearby
+Amravati,2452,1,3,21000000,Villa,11,Furnished,New Booking,18,36,1,School Nearby
+Solapur,2944,1,4,3200000,Studio Apartment,16,Unfurnished,Resale,29,35,1,Gym
+Solapur,2842,5,4,1300000,Independent House,11,Unfurnished,New Booking,4,24,1,Gym
+Kolhapur,1022,2,2,30400000,Apartment,29,Unfurnished,New Booking,18,38,2,Hospital Nearby
+Aurangabad,650,2,4,1300000,Apartment,3,Unfurnished,New Booking,18,32,1,School Nearby
+Aurangabad,4134,5,4,43300000,Penthouse,16,Unfurnished,New Booking,10,32,2,Mall Nearby
+Sangli,1259,3,3,34900000,Studio Apartment,23,Furnished,New Booking,17,33,2,Mall Nearby
+Aurangabad,4806,2,1,48300000,Villa,4,Unfurnished,New Booking,13,33,1,Swimming Pool
+Aurangabad,2977,3,4,36300000,Studio Apartment,25,Furnished,Resale,15,36,2,Mall Nearby
+Nashik,2083,2,3,40300000,Apartment,20,Unfurnished,New Booking,18,23,1,School Nearby
+Pune,1414,4,1,8700000,Independent House,25,Furnished,New Booking,9,31,0,Hospital Nearby
+Thane,2981,3,2,24500000,Independent House,30,Unfurnished,New Booking,5,20,0,Hospital Nearby
+Kolhapur,1734,1,1,3900000,Apartment,7,Unfurnished,Resale,27,29,2,Swimming Pool
+Thane,1821,4,1,43100000,Studio Apartment,6,Furnished,Resale,9,25,1,Hospital Nearby
+Mumbai,3016,1,4,37100000,Apartment,29,Furnished,New Booking,2,13,3,Park
+Nagpur,4676,1,1,22600000,Penthouse,16,Furnished,Resale,21,25,1,Swimming Pool
+Kolhapur,3000,5,2,48300000,Studio Apartment,3,Unfurnished,New Booking,11,14,2,Gym
+Amravati,1364,4,4,25700000,Penthouse,14,Semi-furnished,New Booking,9,40,3,Hospital Nearby
+Pune,4735,2,4,22600000,Apartment,6,Furnished,Resale,5,10,1,Gym
+Nashik,729,5,4,4700000,Villa,26,Semi-furnished,Resale,3,33,3,School Nearby
+Nagpur,1187,2,3,22200000,Independent House,20,Unfurnished,New Booking,6,34,0,Gym
+Nashik,3873,2,2,30600000,Independent House,28,Furnished,New Booking,25,34,2,School Nearby
+Kolhapur,4018,2,2,10500000,Independent House,4,Unfurnished,New Booking,6,9,0,Mall Nearby
+Thane,4965,4,2,21200000,Apartment,19,Semi-furnished,New Booking,23,28,1,Mall Nearby
+Solapur,2826,1,4,23400000,Studio Apartment,16,Unfurnished,Resale,9,17,0,Mall Nearby
+Nashik,976,3,2,22600000,Penthouse,29,Furnished,New Booking,23,24,1,School Nearby
+Thane,4988,5,1,44300000,Apartment,8,Semi-furnished,New Booking,22,37,1,School Nearby
+Sangli,884,2,3,49800000,Penthouse,22,Unfurnished,New Booking,13,15,3,Swimming Pool
+Nagpur,2264,2,2,8600000,Studio Apartment,25,Unfurnished,New Booking,13,22,1,Gym
+Kolhapur,4922,2,1,9600000,Penthouse,7,Semi-furnished,New Booking,21,24,3,Mall Nearby
+Aurangabad,812,3,1,1600000,Studio Apartment,18,Furnished,New Booking,19,31,0,Gym
+Aurangabad,3592,2,1,34500000,Penthouse,21,Furnished,Resale,26,26,3,Swimming Pool
+Amravati,2595,2,4,25200000,Studio Apartment,1,Unfurnished,New Booking,6,35,0,School Nearby
+Nagpur,1572,3,2,28900000,Penthouse,30,Unfurnished,New Booking,12,36,0,Park
+Kolhapur,913,2,2,15700000,Apartment,20,Unfurnished,Resale,24,40,2,Gym
+Pune,3819,3,2,5400000,Independent House,17,Semi-furnished,New Booking,20,20,1,Park
+Mumbai,1642,1,1,24400000,Independent House,5,Unfurnished,New Booking,1,14,0,Swimming Pool
+Nashik,2468,4,1,29700000,Studio Apartment,14,Semi-furnished,Resale,30,37,0,Gym
+Sangli,1179,2,4,49100000,Apartment,30,Furnished,Resale,23,31,3,School Nearby
+Sangli,1821,3,4,33700000,Independent House,18,Semi-furnished,Resale,13,24,2,Hospital Nearby
+Thane,2082,4,3,8600000,Apartment,19,Furnished,New Booking,11,17,3,Park
+Amravati,3019,1,3,8800000,Independent House,18,Furnished,Resale,24,24,0,Swimming Pool
+Sangli,2980,5,3,25100000,Penthouse,12,Unfurnished,New Booking,20,20,2,Gym
+Nashik,1946,3,2,41400000,Villa,21,Semi-furnished,New Booking,22,30,0,School Nearby
+Nashik,1930,5,3,14500000,Apartment,14,Unfurnished,New Booking,3,26,1,Hospital Nearby
+Solapur,647,2,1,16900000,Apartment,19,Furnished,New Booking,1,31,2,School Nearby
+Aurangabad,4829,4,1,20100000,Apartment,21,Unfurnished,Resale,11,25,2,Park
+Pune,3492,2,3,16500000,Villa,7,Unfurnished,New Booking,12,38,0,Mall Nearby
+Kolhapur,491,4,4,7300000,Independent House,26,Semi-furnished,New Booking,7,18,3,Gym
+Solapur,473,4,1,7000000,Penthouse,5,Furnished,Resale,12,23,0,Hospital Nearby
+Pune,1634,4,4,34000000,Independent House,21,Semi-furnished,New Booking,21,28,1,Gym
+Nashik,3873,1,2,24500000,Studio Apartment,19,Unfurnished,Resale,20,25,2,Hospital Nearby
+Sangli,4168,3,4,7200000,Villa,3,Unfurnished,New Booking,1,13,2,Swimming Pool
+Pune,1101,1,2,29300000,Apartment,5,Furnished,New Booking,9,39,0,Hospital Nearby
+Solapur,2621,2,4,48700000,Apartment,14,Furnished,Resale,15,28,3,Hospital Nearby
+Sangli,4253,5,3,7300000,Penthouse,24,Furnished,Resale,20,25,0,School Nearby
+Mumbai,1900,2,1,27000000,Penthouse,29,Furnished,New Booking,2,36,2,Park
+Amravati,2868,3,2,32100000,Independent House,23,Semi-furnished,New Booking,4,22,1,Hospital Nearby
+Mumbai,1335,4,1,12500000,Penthouse,7,Furnished,Resale,2,29,1,Gym
+Sangli,3565,1,2,46600000,Apartment,21,Furnished,New Booking,8,22,1,Hospital Nearby
+Sangli,1807,2,3,17800000,Penthouse,11,Furnished,Resale,30,35,0,Mall Nearby
+Nagpur,4357,5,3,2200000,Villa,13,Semi-furnished,Resale,26,40,1,School Nearby
+Nagpur,3790,5,2,44000000,Independent House,24,Unfurnished,Resale,25,25,3,Hospital Nearby
+Aurangabad,4314,1,3,47300000,Apartment,24,Unfurnished,New Booking,6,19,0,Park
+Pune,4479,3,1,3500000,Studio Apartment,19,Furnished,Resale,17,37,2,Swimming Pool
+Thane,1974,3,4,35700000,Penthouse,17,Semi-furnished,New Booking,17,19,0,Swimming Pool
+Nashik,2447,4,2,4800000,Studio Apartment,27,Furnished,Resale,25,32,2,Park
+Kolhapur,739,5,2,18300000,Studio Apartment,6,Furnished,New Booking,22,37,2,School Nearby
+Aurangabad,4016,4,4,32200000,Villa,20,Furnished,Resale,5,8,0,Gym
+Sangli,3620,1,2,23800000,Villa,28,Furnished,New Booking,23,31,1,School Nearby
+Thane,3921,2,3,16400000,Studio Apartment,30,Unfurnished,Resale,2,30,0,Mall Nearby
+Solapur,4898,5,1,11500000,Villa,18,Semi-furnished,Resale,27,34,3,Gym
+Kolhapur,1013,4,1,46200000,Independent House,27,Semi-furnished,Resale,25,30,3,Mall Nearby
+Amravati,325,2,1,36800000,Apartment,16,Furnished,New Booking,9,33,0,Gym
+Sangli,2898,5,2,2800000,Villa,15,Unfurnished,Resale,24,33,2,Swimming Pool
+Pune,1180,5,2,42100000,Studio Apartment,21,Furnished,New Booking,6,20,0,Swimming Pool
+Nagpur,532,1,2,27200000,Apartment,8,Semi-furnished,Resale,17,22,1,Hospital Nearby
+Mumbai,4762,3,4,39500000,Apartment,29,Semi-furnished,New Booking,6,22,1,Swimming Pool
+Mumbai,2866,2,2,11800000,Independent House,1,Unfurnished,Resale,16,17,0,Hospital Nearby
+Amravati,1674,2,1,41900000,Penthouse,8,Furnished,Resale,4,19,1,Hospital Nearby
+Amravati,2915,1,3,4400000,Independent House,6,Unfurnished,New Booking,30,34,1,Gym
+Amravati,1987,4,2,16300000,Apartment,1,Semi-furnished,New Booking,3,8,3,Park
+Mumbai,2475,1,4,9800000,Apartment,0,Furnished,Resale,11,35,2,Gym
+Sangli,3107,2,3,30100000,Studio Apartment,21,Unfurnished,New Booking,4,22,1,Gym
+Sangli,2485,5,3,24400000,Apartment,27,Semi-furnished,Resale,2,4,2,Gym
+Mumbai,3193,2,1,6800000,Apartment,19,Semi-furnished,New Booking,28,30,2,School Nearby
+Kolhapur,1313,2,2,31100000,Villa,6,Furnished,Resale,14,40,1,Swimming Pool
+Pune,3330,3,1,31100000,Villa,13,Semi-furnished,Resale,30,33,1,Gym
+Amravati,3000,4,4,14500000,Studio Apartment,4,Semi-furnished,Resale,18,25,1,Park
+Nagpur,404,5,2,16700000,Penthouse,20,Unfurnished,Resale,13,27,1,Park
+Pune,1966,1,3,29100000,Studio Apartment,20,Semi-furnished,New Booking,10,29,1,Gym
+Sangli,4479,3,1,28700000,Apartment,3,Unfurnished,New Booking,9,15,3,Hospital Nearby
+Aurangabad,3923,1,2,45500000,Villa,30,Semi-furnished,Resale,21,23,0,Gym
+Mumbai,4680,1,3,26900000,Apartment,1,Unfurnished,New Booking,25,25,3,Mall Nearby
+Thane,4129,3,1,26600000,Villa,25,Furnished,Resale,20,24,2,Park
+Sangli,1779,3,4,34400000,Independent House,20,Semi-furnished,Resale,7,10,3,Gym
+Nashik,537,1,4,41600000,Penthouse,29,Furnished,Resale,30,35,3,Gym
+Pune,4585,4,2,10400000,Studio Apartment,21,Semi-furnished,New Booking,5,20,1,School Nearby
+Thane,3267,1,3,36300000,Apartment,25,Semi-furnished,Resale,20,24,1,Hospital Nearby
+Amravati,725,4,2,13400000,Independent House,17,Unfurnished,New Booking,5,37,2,Hospital Nearby
+Sangli,4906,1,4,14400000,Penthouse,7,Furnished,New Booking,27,29,2,Mall Nearby
+Thane,2280,5,3,35300000,Independent House,14,Unfurnished,Resale,29,33,1,Mall Nearby
+Pune,2975,1,2,35000000,Studio Apartment,14,Semi-furnished,New Booking,20,28,3,School Nearby
+Nashik,902,2,2,40800000,Penthouse,20,Furnished,New Booking,21,38,2,Park
+Solapur,1972,5,1,23100000,Independent House,17,Semi-furnished,Resale,2,39,3,Gym
+Nagpur,399,2,3,4500000,Apartment,3,Semi-furnished,Resale,22,22,1,Gym
+Nagpur,4505,4,2,23400000,Studio Apartment,10,Unfurnished,Resale,13,29,2,Swimming Pool
+Kolhapur,4431,2,1,9000000,Independent House,21,Furnished,Resale,27,32,3,Hospital Nearby
+Amravati,4101,1,2,37700000,Studio Apartment,4,Unfurnished,Resale,9,23,3,School Nearby
+Nashik,1722,4,1,48800000,Apartment,21,Semi-furnished,Resale,9,33,1,Mall Nearby
+Thane,1678,1,1,38300000,Studio Apartment,12,Semi-furnished,Resale,30,40,0,Park
+Thane,871,4,3,44900000,Studio Apartment,1,Furnished,Resale,22,31,3,Gym
+Nashik,1731,5,3,26500000,Studio Apartment,10,Furnished,Resale,6,30,1,Gym
+Amravati,3629,2,3,17800000,Apartment,17,Furnished,Resale,20,23,2,Hospital Nearby
+Sangli,2929,1,1,24700000,Independent House,19,Furnished,Resale,24,24,0,Gym
+Thane,1841,4,2,22700000,Independent House,29,Furnished,New Booking,2,23,1,Park
+Nagpur,4618,1,2,41000000,Independent House,22,Semi-furnished,Resale,29,32,1,Hospital Nearby
+Nashik,876,4,1,13300000,Villa,17,Furnished,Resale,14,36,3,Swimming Pool
+Nagpur,3916,2,3,24200000,Apartment,1,Unfurnished,Resale,16,39,1,Swimming Pool
+Nashik,1820,4,2,13400000,Apartment,16,Semi-furnished,New Booking,22,26,3,Gym
+Aurangabad,1589,5,4,33300000,Penthouse,23,Unfurnished,New Booking,12,22,3,Hospital Nearby
+Nashik,3590,2,3,27800000,Studio Apartment,9,Unfurnished,Resale,23,32,1,Hospital Nearby
+Kolhapur,2955,1,2,45800000,Penthouse,18,Semi-furnished,New Booking,21,23,0,Gym
+Solapur,1584,4,2,36800000,Penthouse,1,Unfurnished,New Booking,8,32,0,Gym
+Amravati,2754,5,2,24300000,Apartment,25,Furnished,New Booking,12,13,2,Swimming Pool
+Thane,4747,2,1,10200000,Studio Apartment,25,Semi-furnished,Resale,17,38,1,Swimming Pool
+Aurangabad,1616,1,2,49500000,Independent House,26,Furnished,New Booking,26,37,2,Park
+Pune,2767,4,2,38000000,Villa,26,Unfurnished,Resale,24,36,0,Hospital Nearby
+Solapur,4757,2,4,20700000,Studio Apartment,24,Semi-furnished,Resale,17,23,0,Park
+Aurangabad,2766,5,2,18000000,Independent House,16,Unfurnished,Resale,6,9,3,Park
+Thane,2272,4,4,30300000,Independent House,10,Furnished,New Booking,9,20,1,Mall Nearby
+Pune,1994,1,1,25600000,Villa,18,Furnished,Resale,15,29,0,Park
+Nagpur,3127,4,3,30400000,Villa,24,Semi-furnished,Resale,3,20,3,Park
+Thane,4898,4,3,7300000,Villa,24,Semi-furnished,New Booking,27,28,3,Park
+Sangli,3985,3,2,36400000,Penthouse,15,Furnished,Resale,29,29,0,Swimming Pool
+Mumbai,538,2,3,45700000,Independent House,11,Semi-furnished,Resale,27,27,1,Hospital Nearby
+Pune,4085,5,2,36900000,Apartment,18,Unfurnished,New Booking,14,22,0,Mall Nearby
+Aurangabad,4030,1,1,12800000,Apartment,13,Semi-furnished,Resale,19,24,1,Mall Nearby
+Pune,3824,4,1,33200000,Studio Apartment,25,Unfurnished,Resale,17,27,2,Gym
+Nashik,1999,3,1,3600000,Villa,21,Unfurnished,New Booking,28,40,1,Gym
+Kolhapur,3717,3,2,5500000,Independent House,2,Unfurnished,New Booking,16,32,0,School Nearby
+Thane,3333,5,4,33000000,Villa,25,Semi-furnished,Resale,17,40,1,School Nearby
+Pune,3437,3,3,48300000,Penthouse,7,Furnished,Resale,9,35,3,Hospital Nearby
+Solapur,1373,2,2,13600000,Villa,30,Semi-furnished,New Booking,11,37,0,Swimming Pool
+Sangli,3264,5,3,45800000,Independent House,5,Semi-furnished,New Booking,21,24,3,Gym
+Solapur,2897,4,3,18100000,Villa,12,Furnished,New Booking,29,32,2,Park
+Mumbai,2609,2,3,34400000,Studio Apartment,8,Furnished,Resale,5,34,0,Gym
+Thane,4927,3,4,8000000,Villa,12,Semi-furnished,Resale,27,39,0,Mall Nearby
+Amravati,2888,2,4,23500000,Studio Apartment,20,Furnished,New Booking,18,27,1,Swimming Pool
+Amravati,1321,4,2,21600000,Apartment,25,Semi-furnished,New Booking,2,33,3,Swimming Pool
+Pune,2683,4,3,8900000,Independent House,9,Unfurnished,New Booking,22,35,2,Hospital Nearby
+Sangli,2340,5,3,48700000,Apartment,2,Furnished,Resale,5,26,3,Swimming Pool
+Aurangabad,4844,4,4,9300000,Independent House,10,Unfurnished,Resale,7,9,2,School Nearby
+Nagpur,4367,5,1,4200000,Studio Apartment,21,Semi-furnished,Resale,2,7,1,Swimming Pool
+Thane,1561,5,3,34900000,Apartment,21,Furnished,New Booking,13,29,2,Park
+Thane,421,4,2,23600000,Apartment,8,Semi-furnished,Resale,5,9,3,Mall Nearby
+Mumbai,4133,4,1,31700000,Villa,25,Semi-furnished,New Booking,8,17,0,School Nearby
+Mumbai,4467,1,2,23300000,Independent House,21,Semi-furnished,New Booking,1,21,2,Swimming Pool
+Pune,2144,5,3,3700000,Villa,17,Semi-furnished,Resale,19,29,1,Gym
+Nagpur,776,2,4,10600000,Studio Apartment,6,Semi-furnished,Resale,20,22,1,Gym
+Amravati,3315,1,1,19600000,Villa,27,Furnished,New Booking,2,9,1,School Nearby
+Thane,3381,1,3,4400000,Apartment,26,Furnished,New Booking,24,30,3,Hospital Nearby
+Aurangabad,3805,2,4,32500000,Independent House,3,Semi-furnished,Resale,2,5,2,Swimming Pool
+Aurangabad,859,2,2,5000000,Apartment,0,Furnished,New Booking,18,40,3,Swimming Pool
+Thane,2693,3,3,3500000,Penthouse,29,Unfurnished,Resale,11,17,2,Mall Nearby
+Amravati,734,4,4,31500000,Villa,10,Unfurnished,New Booking,10,26,3,Mall Nearby
+Sangli,750,3,2,15600000,Penthouse,8,Unfurnished,Resale,6,8,1,School Nearby
+Mumbai,2849,4,4,43000000,Apartment,14,Unfurnished,New Booking,3,39,2,Hospital Nearby
+Aurangabad,1338,2,3,10400000,Apartment,26,Furnished,Resale,12,25,2,Park
+Kolhapur,1633,4,2,19800000,Villa,7,Unfurnished,Resale,22,30,0,School Nearby
+Amravati,454,2,3,1700000,Villa,25,Semi-furnished,New Booking,14,14,0,Gym
+Pune,4926,5,3,36500000,Penthouse,21,Furnished,Resale,29,38,0,Hospital Nearby
+Amravati,389,4,2,28800000,Villa,21,Unfurnished,New Booking,23,38,0,School Nearby
+Nagpur,2605,2,1,19900000,Studio Apartment,27,Unfurnished,New Booking,30,39,0,Hospital Nearby
+Aurangabad,3807,2,4,14700000,Apartment,5,Furnished,Resale,20,25,2,Gym
+Aurangabad,2777,2,4,2000000,Studio Apartment,20,Semi-furnished,New Booking,19,40,0,School Nearby
+Thane,1428,2,3,16200000,Independent House,27,Unfurnished,New Booking,10,30,3,Hospital Nearby
+Aurangabad,1619,1,1,32100000,Independent House,21,Unfurnished,New Booking,17,29,1,Gym
+Mumbai,707,4,2,49000000,Studio Apartment,13,Unfurnished,New Booking,28,28,3,Mall Nearby
+Nagpur,1238,5,3,32600000,Apartment,10,Furnished,Resale,8,26,3,Mall Nearby
+Sangli,4527,1,1,24900000,Apartment,19,Semi-furnished,New Booking,18,27,2,Hospital Nearby
+Thane,4931,4,1,46200000,Penthouse,9,Unfurnished,Resale,21,35,0,Park
+Aurangabad,3154,2,1,8600000,Independent House,27,Semi-furnished,Resale,3,13,2,Hospital Nearby
+Aurangabad,3116,1,1,10300000,Apartment,28,Unfurnished,Resale,29,33,0,Hospital Nearby
+Amravati,2754,4,1,17700000,Penthouse,5,Unfurnished,Resale,23,40,1,Park
+Mumbai,4497,1,2,46600000,Villa,7,Furnished,Resale,2,2,1,Swimming Pool
+Nagpur,4325,1,3,40700000,Independent House,20,Unfurnished,Resale,25,25,0,School Nearby
+Solapur,2442,5,2,49000000,Penthouse,17,Semi-furnished,New Booking,10,39,2,Mall Nearby
+Pune,1009,4,1,24400000,Studio Apartment,10,Semi-furnished,New Booking,1,27,3,Park
+Solapur,4088,5,2,12700000,Penthouse,28,Furnished,Resale,7,18,3,Swimming Pool
+Mumbai,909,4,2,30800000,Studio Apartment,25,Furnished,Resale,20,36,1,Mall Nearby
+Thane,3480,2,2,42800000,Penthouse,20,Furnished,New Booking,6,35,2,Mall Nearby
+Nashik,4753,1,1,37600000,Villa,13,Semi-furnished,New Booking,10,20,0,Park
+Kolhapur,1236,3,4,43200000,Independent House,28,Furnished,Resale,16,23,0,Park
+Sangli,4060,5,3,3500000,Apartment,18,Semi-furnished,New Booking,9,22,0,Hospital Nearby
+Nagpur,3371,4,4,49400000,Apartment,15,Semi-furnished,New Booking,5,21,0,Swimming Pool
+Solapur,2668,5,4,23200000,Independent House,29,Semi-furnished,New Booking,15,26,0,Hospital Nearby
+Solapur,3313,4,3,4500000,Studio Apartment,22,Unfurnished,Resale,1,1,1,Gym
+Kolhapur,1670,3,3,12700000,Penthouse,23,Furnished,Resale,5,25,0,Gym
+Pune,4584,5,1,20500000,Studio Apartment,21,Semi-furnished,New Booking,16,27,3,Mall Nearby
+Mumbai,3985,5,1,48400000,Studio Apartment,22,Furnished,Resale,9,27,0,Park
+Pune,3635,1,3,31700000,Independent House,12,Semi-furnished,New Booking,19,20,0,School Nearby
+Mumbai,3335,5,3,1200000,Independent House,29,Furnished,New Booking,14,32,0,Gym
+Kolhapur,2523,3,3,9400000,Studio Apartment,11,Furnished,Resale,16,29,2,Gym
+Amravati,870,3,4,36000000,Penthouse,24,Semi-furnished,Resale,7,34,2,Park
+Pune,3021,2,4,38500000,Villa,1,Furnished,Resale,22,38,1,Gym
+Amravati,1065,1,2,41400000,Villa,26,Semi-furnished,Resale,14,15,3,Gym
+Aurangabad,3779,5,4,31800000,Apartment,9,Furnished,New Booking,27,39,2,Swimming Pool
+Thane,4663,1,1,11300000,Studio Apartment,28,Semi-furnished,Resale,20,40,2,School Nearby
+Kolhapur,362,2,1,21900000,Independent House,17,Unfurnished,New Booking,21,25,3,Gym
+Solapur,3870,3,3,7100000,Penthouse,26,Unfurnished,New Booking,29,34,2,Mall Nearby
+Aurangabad,2575,2,3,28100000,Independent House,10,Semi-furnished,New Booking,17,26,0,School Nearby
+Aurangabad,2821,2,3,31400000,Apartment,4,Semi-furnished,New Booking,29,40,3,Mall Nearby
+Thane,3512,2,3,30400000,Villa,24,Semi-furnished,New Booking,13,27,3,School Nearby
+Kolhapur,3092,4,4,11000000,Villa,26,Unfurnished,New Booking,6,21,0,Mall Nearby
+Solapur,473,5,2,21900000,Apartment,25,Furnished,New Booking,10,17,1,Swimming Pool
+Nashik,2056,3,3,1200000,Villa,22,Semi-furnished,New Booking,14,20,3,Mall Nearby
+Aurangabad,484,1,3,31900000,Apartment,11,Furnished,Resale,17,28,1,Park
+Pune,3035,2,3,43500000,Villa,3,Furnished,Resale,7,18,0,Mall Nearby
+Pune,2835,1,2,3400000,Villa,11,Semi-furnished,Resale,6,22,0,Hospital Nearby
+Amravati,2556,4,2,29800000,Villa,12,Unfurnished,New Booking,15,40,0,Mall Nearby
+Thane,3100,4,4,35300000,Apartment,5,Furnished,New Booking,21,30,2,Gym
+Kolhapur,3776,3,3,32400000,Penthouse,5,Furnished,New Booking,3,34,2,Gym
+Kolhapur,1792,2,3,17000000,Penthouse,0,Unfurnished,Resale,19,19,2,Swimming Pool
+Mumbai,591,1,4,17700000,Studio Apartment,8,Unfurnished,Resale,16,26,2,School Nearby
+Amravati,2227,1,1,20100000,Apartment,17,Unfurnished,Resale,1,34,0,Gym
+Nashik,3350,2,4,44800000,Independent House,14,Furnished,Resale,29,33,3,School Nearby
+Pune,1356,3,4,4100000,Penthouse,18,Unfurnished,Resale,18,28,0,Swimming Pool
+Nagpur,4390,3,2,16200000,Studio Apartment,17,Unfurnished,New Booking,21,39,3,Hospital Nearby
+Solapur,3536,3,2,28800000,Studio Apartment,24,Semi-furnished,Resale,14,23,1,School Nearby
+Solapur,4260,1,1,32600000,Penthouse,30,Furnished,New Booking,25,35,3,Hospital Nearby
+Thane,3164,5,4,31300000,Villa,1,Semi-furnished,Resale,2,16,3,School Nearby
+Amravati,2342,1,1,30200000,Studio Apartment,23,Furnished,Resale,30,39,2,School Nearby
+Amravati,3703,2,2,28500000,Apartment,2,Furnished,Resale,15,21,0,Park
+Pune,4063,2,1,19900000,Independent House,0,Semi-furnished,New Booking,5,23,2,Park
+Nagpur,2480,5,1,28800000,Apartment,2,Unfurnished,New Booking,6,37,0,Hospital Nearby
+Kolhapur,4381,2,1,8700000,Studio Apartment,1,Unfurnished,New Booking,29,40,2,Swimming Pool
+Pune,1312,2,2,31000000,Villa,22,Furnished,Resale,11,27,0,School Nearby
+Thane,1109,1,3,15400000,Independent House,30,Furnished,Resale,26,37,2,Swimming Pool
+Aurangabad,3253,3,4,28500000,Penthouse,5,Semi-furnished,New Booking,20,34,2,Park
+Nagpur,4523,4,1,43700000,Studio Apartment,1,Unfurnished,Resale,25,33,2,Hospital Nearby
+Nagpur,1306,3,4,47400000,Studio Apartment,20,Unfurnished,New Booking,1,9,3,Swimming Pool
+Solapur,2872,2,4,25000000,Independent House,10,Unfurnished,New Booking,24,38,1,Hospital Nearby
+Nashik,1422,3,1,27000000,Independent House,10,Semi-furnished,New Booking,12,19,1,School Nearby
+Thane,3852,3,3,30700000,Penthouse,10,Furnished,Resale,23,38,0,Park
+Mumbai,1941,5,3,38900000,Studio Apartment,0,Unfurnished,Resale,22,25,1,Mall Nearby
+Mumbai,4609,5,4,29600000,Independent House,4,Semi-furnished,Resale,8,15,2,Mall Nearby
+Sangli,4056,2,2,33200000,Apartment,28,Furnished,Resale,1,15,3,Mall Nearby
+Mumbai,4147,5,4,4600000,Apartment,3,Semi-furnished,Resale,18,34,0,Park
+Pune,1069,2,4,40300000,Independent House,21,Semi-furnished,Resale,13,13,0,Gym
+Nashik,968,3,2,19000000,Apartment,12,Unfurnished,New Booking,23,39,0,Gym
+Sangli,3388,1,3,5900000,Penthouse,11,Furnished,Resale,17,35,3,Hospital Nearby
+Kolhapur,702,5,4,33400000,Apartment,5,Furnished,New Booking,20,20,1,Swimming Pool
+Nashik,479,2,1,45700000,Studio Apartment,22,Unfurnished,New Booking,11,16,3,Mall Nearby
+Nashik,1751,4,4,12700000,Studio Apartment,24,Unfurnished,Resale,24,33,2,Gym
+Thane,684,5,2,30500000,Villa,11,Unfurnished,New Booking,7,10,2,Swimming Pool
+Solapur,4260,2,4,20600000,Studio Apartment,0,Semi-furnished,New Booking,20,24,2,Park
+Mumbai,4078,5,1,11300000,Villa,19,Furnished,New Booking,29,30,0,Mall Nearby
+Pune,964,4,2,13700000,Independent House,14,Semi-furnished,New Booking,22,22,3,School Nearby
+Aurangabad,4511,4,1,20600000,Villa,28,Unfurnished,New Booking,29,37,0,Mall Nearby
+Nashik,1160,4,4,2900000,Penthouse,9,Unfurnished,New Booking,18,18,0,Swimming Pool
+Amravati,3123,2,3,17800000,Studio Apartment,8,Semi-furnished,New Booking,7,9,1,Swimming Pool
+Mumbai,838,1,4,20200000,Villa,16,Semi-furnished,Resale,8,37,2,Park
+Solapur,1372,2,2,44800000,Penthouse,3,Furnished,Resale,30,36,2,Hospital Nearby
+Kolhapur,1409,3,1,19100000,Independent House,27,Furnished,New Booking,13,37,0,Hospital Nearby
+Aurangabad,698,3,4,33300000,Villa,19,Furnished,Resale,7,25,3,School Nearby
+Amravati,592,3,2,2700000,Apartment,27,Unfurnished,New Booking,1,36,3,Mall Nearby
+Nagpur,2576,3,1,25000000,Villa,24,Furnished,Resale,18,35,3,Hospital Nearby
+Amravati,2286,5,2,43300000,Penthouse,25,Unfurnished,New Booking,10,26,0,Mall Nearby
+Mumbai,3630,1,1,9400000,Penthouse,13,Furnished,Resale,20,33,0,Hospital Nearby
+Amravati,2110,2,3,19000000,Independent House,5,Unfurnished,Resale,15,19,0,School Nearby
+Kolhapur,1133,5,2,25600000,Penthouse,14,Semi-furnished,Resale,1,11,1,Park
+Pune,3959,5,2,38100000,Villa,9,Unfurnished,Resale,28,38,2,Gym
+Sangli,1606,2,2,4700000,Villa,10,Unfurnished,New Booking,23,32,2,Hospital Nearby
+Kolhapur,4325,4,3,19800000,Independent House,7,Unfurnished,Resale,5,7,3,Hospital Nearby
+Nashik,1987,2,2,8500000,Studio Apartment,5,Furnished,New Booking,1,30,3,Mall Nearby
+Nashik,3556,3,1,1200000,Penthouse,15,Semi-furnished,Resale,12,26,2,School Nearby
+Thane,2197,1,3,8200000,Independent House,0,Semi-furnished,Resale,15,36,0,Gym
+Kolhapur,3686,4,1,26900000,Independent House,1,Semi-furnished,Resale,29,39,0,Gym
+Amravati,1474,2,4,20700000,Penthouse,6,Furnished,Resale,1,5,2,Mall Nearby
+Nagpur,1298,3,1,34200000,Penthouse,30,Unfurnished,Resale,13,36,1,Gym
+Thane,1692,2,1,40000000,Apartment,18,Semi-furnished,New Booking,21,27,1,Swimming Pool
+Sangli,1861,3,1,46600000,Apartment,0,Unfurnished,New Booking,21,28,2,Gym
+Nashik,4309,4,3,7800000,Penthouse,30,Furnished,Resale,10,33,2,Hospital Nearby
+Mumbai,3954,1,3,13300000,Studio Apartment,21,Unfurnished,Resale,28,40,0,School Nearby
+Thane,473,4,4,12600000,Villa,13,Unfurnished,Resale,10,22,1,Mall Nearby
+Nashik,574,1,1,5300000,Penthouse,9,Unfurnished,New Booking,20,38,1,Swimming Pool
+Kolhapur,4399,3,3,47600000,Penthouse,6,Unfurnished,Resale,1,30,3,Hospital Nearby
+Sangli,2836,3,1,36200000,Villa,2,Unfurnished,New Booking,30,37,2,Mall Nearby
+Thane,1012,1,3,5000000,Villa,22,Semi-furnished,New Booking,26,31,0,Hospital Nearby
+Pune,1743,4,2,49000000,Apartment,2,Unfurnished,Resale,26,37,0,Hospital Nearby
+Pune,3526,3,1,9400000,Independent House,15,Furnished,New Booking,4,36,3,Mall Nearby
+Amravati,4992,1,2,39400000,Penthouse,20,Furnished,Resale,8,14,1,Mall Nearby
+Solapur,3207,2,3,16200000,Penthouse,5,Semi-furnished,New Booking,24,37,1,Mall Nearby
+Sangli,3784,4,4,2500000,Penthouse,17,Furnished,New Booking,21,34,3,Park
+Thane,2140,4,1,18200000,Independent House,17,Furnished,Resale,6,38,3,Gym
+Solapur,1145,1,4,7700000,Penthouse,4,Furnished,New Booking,5,28,3,Park
+Nashik,2521,1,2,17400000,Apartment,4,Unfurnished,New Booking,11,22,3,School Nearby
+Amravati,4342,1,4,19900000,Villa,13,Semi-furnished,New Booking,19,22,3,Gym
+Solapur,2269,3,2,8200000,Penthouse,11,Unfurnished,Resale,18,37,1,Gym
+Thane,448,1,2,3400000,Independent House,17,Semi-furnished,Resale,26,33,1,School Nearby
+Mumbai,2216,2,3,13700000,Independent House,3,Furnished,Resale,12,26,3,School Nearby
+Aurangabad,482,5,4,47700000,Studio Apartment,4,Semi-furnished,Resale,25,28,0,Hospital Nearby
+Nashik,3049,4,4,20400000,Studio Apartment,30,Furnished,Resale,1,2,2,Hospital Nearby
+Nashik,375,1,2,14200000,Apartment,25,Semi-furnished,New Booking,21,22,2,Gym
+Nashik,4906,2,2,35900000,Studio Apartment,6,Semi-furnished,Resale,7,8,1,Hospital Nearby
+Nagpur,4074,5,2,45300000,Penthouse,2,Furnished,New Booking,21,32,3,Swimming Pool
+Nagpur,1661,4,2,22200000,Apartment,23,Unfurnished,Resale,23,25,2,Hospital Nearby
+Nagpur,2900,2,4,2600000,Independent House,23,Furnished,New Booking,27,35,2,Hospital Nearby
+Mumbai,2591,2,4,36800000,Penthouse,18,Semi-furnished,Resale,10,31,0,Hospital Nearby
+Nashik,1956,1,3,15300000,Penthouse,4,Semi-furnished,New Booking,9,9,0,Hospital Nearby
+Kolhapur,2488,2,2,45700000,Penthouse,6,Semi-furnished,New Booking,15,26,0,Hospital Nearby
+Mumbai,4932,2,1,18800000,Studio Apartment,30,Unfurnished,New Booking,20,29,0,Hospital Nearby
+Nashik,2893,3,2,12000000,Studio Apartment,22,Furnished,New Booking,29,36,2,Park
+Thane,1263,3,4,9700000,Studio Apartment,13,Semi-furnished,New Booking,30,30,3,Gym
+Pune,2533,4,1,34600000,Independent House,23,Semi-furnished,Resale,20,21,0,Mall Nearby
+Mumbai,889,1,3,21600000,Penthouse,22,Furnished,Resale,29,31,3,Hospital Nearby
+Nashik,1843,5,1,43300000,Villa,29,Unfurnished,Resale,8,35,1,School Nearby
+Pune,4577,5,3,33200000,Studio Apartment,7,Furnished,Resale,20,30,2,Mall Nearby
+Kolhapur,4073,3,1,13500000,Independent House,9,Unfurnished,New Booking,22,26,0,Gym
+Nashik,3946,2,1,26600000,Independent House,11,Semi-furnished,New Booking,27,38,1,Mall Nearby
+Nashik,4409,1,3,44300000,Independent House,12,Unfurnished,Resale,21,32,1,School Nearby
+Mumbai,2347,3,1,44100000,Studio Apartment,6,Unfurnished,New Booking,2,25,0,Swimming Pool
+Nashik,1638,4,2,4200000,Apartment,22,Furnished,New Booking,1,21,3,Swimming Pool
+Sangli,1382,4,3,18400000,Apartment,29,Furnished,Resale,3,5,3,School Nearby
+Amravati,3644,1,3,35700000,Penthouse,1,Semi-furnished,New Booking,18,25,3,Swimming Pool
+Thane,2938,5,1,7800000,Villa,13,Unfurnished,New Booking,5,12,1,Park
+Pune,4832,2,2,17600000,Independent House,4,Semi-furnished,Resale,25,40,2,Swimming Pool
+Sangli,4274,5,2,12900000,Studio Apartment,26,Semi-furnished,Resale,24,24,1,Hospital Nearby
+Solapur,1799,2,2,14900000,Studio Apartment,18,Semi-furnished,New Booking,4,23,2,Mall Nearby
+Sangli,1531,3,4,20700000,Villa,23,Furnished,New Booking,22,37,1,Park
+Solapur,1278,2,4,22100000,Studio Apartment,1,Semi-furnished,New Booking,21,25,1,Mall Nearby
+Sangli,1248,2,4,48200000,Apartment,25,Semi-furnished,New Booking,30,40,1,School Nearby
+Sangli,1819,2,3,30900000,Studio Apartment,14,Furnished,New Booking,14,27,3,School Nearby
+Nashik,1330,5,4,11400000,Apartment,10,Unfurnished,New Booking,1,13,3,Gym
+Solapur,1116,2,1,45700000,Studio Apartment,19,Furnished,Resale,23,28,0,Swimming Pool
+Aurangabad,4872,1,4,39600000,Studio Apartment,18,Unfurnished,New Booking,26,32,2,Hospital Nearby
+Aurangabad,714,5,2,8100000,Apartment,27,Unfurnished,New Booking,13,17,3,Park
+Solapur,3819,1,3,28500000,Penthouse,15,Unfurnished,New Booking,28,39,0,Hospital Nearby
+Amravati,3420,2,4,47700000,Villa,12,Semi-furnished,Resale,7,31,3,Hospital Nearby
+Amravati,3049,2,2,22900000,Apartment,17,Semi-furnished,New Booking,29,32,0,School Nearby
+Nashik,3882,1,1,20700000,Apartment,0,Semi-furnished,New Booking,17,24,3,School Nearby
+Amravati,1516,1,1,44100000,Independent House,5,Unfurnished,New Booking,6,38,1,School Nearby
+Thane,4859,2,1,44800000,Villa,4,Unfurnished,New Booking,28,32,3,Hospital Nearby
+Thane,413,1,4,49700000,Villa,5,Semi-furnished,New Booking,21,35,0,Mall Nearby
+Kolhapur,2422,4,4,9400000,Villa,14,Unfurnished,New Booking,16,40,2,School Nearby
+Aurangabad,4988,3,1,2200000,Villa,11,Unfurnished,New Booking,20,28,0,Gym
+Nashik,1312,1,2,43100000,Villa,23,Furnished,Resale,29,37,2,Swimming Pool
+Mumbai,1181,1,1,49100000,Villa,29,Semi-furnished,New Booking,9,24,0,Swimming Pool
+Solapur,3452,3,1,35600000,Independent House,25,Furnished,Resale,28,38,3,Gym
+Sangli,4964,2,2,37800000,Studio Apartment,6,Unfurnished,Resale,18,34,2,School Nearby
+Kolhapur,2478,1,3,9000000,Penthouse,15,Unfurnished,New Booking,28,33,3,Park
+Aurangabad,4812,5,1,8900000,Studio Apartment,20,Semi-furnished,New Booking,26,29,0,Hospital Nearby
+Nashik,2752,3,1,21800000,Penthouse,30,Furnished,New Booking,7,25,3,Hospital Nearby
+Sangli,4891,5,2,24400000,Apartment,5,Semi-furnished,Resale,22,28,0,Hospital Nearby
+Nashik,4817,1,1,37900000,Independent House,17,Furnished,Resale,7,18,0,Hospital Nearby
+Sangli,348,5,4,19000000,Penthouse,18,Semi-furnished,New Booking,23,30,0,Gym
+Solapur,1085,3,1,5200000,Studio Apartment,29,Unfurnished,New Booking,27,40,3,Mall Nearby
+Amravati,1545,1,3,48400000,Studio Apartment,5,Semi-furnished,New Booking,23,38,0,Park
+Pune,2719,5,4,7600000,Studio Apartment,12,Furnished,Resale,8,20,0,Gym
+Nashik,4441,3,1,23000000,Penthouse,15,Semi-furnished,Resale,11,37,2,Gym
+Amravati,2293,3,2,19800000,Apartment,22,Semi-furnished,New Booking,1,27,3,Mall Nearby
+Amravati,3853,5,3,36500000,Penthouse,18,Unfurnished,Resale,11,32,3,Swimming Pool
+Nashik,308,4,1,21700000,Villa,12,Semi-furnished,Resale,13,22,2,Hospital Nearby
+Nagpur,1031,5,1,17200000,Apartment,28,Unfurnished,New Booking,26,27,3,Gym
+Kolhapur,4578,2,2,21800000,Studio Apartment,28,Unfurnished,Resale,11,11,1,Swimming Pool
+Thane,4486,2,1,22900000,Villa,19,Unfurnished,Resale,19,23,3,Mall Nearby
+Nashik,1537,2,4,41000000,Apartment,7,Furnished,New Booking,20,34,1,Park
+Kolhapur,4634,2,2,2500000,Penthouse,10,Furnished,New Booking,14,18,2,Mall Nearby
+Solapur,3215,5,1,12900000,Independent House,27,Semi-furnished,New Booking,10,31,0,Gym
+Nashik,3296,2,1,48700000,Villa,26,Unfurnished,New Booking,7,14,3,School Nearby
+Solapur,2693,4,3,48700000,Villa,14,Unfurnished,New Booking,3,18,1,Hospital Nearby
+Kolhapur,4037,3,4,1400000,Apartment,5,Semi-furnished,New Booking,10,38,2,Mall Nearby
+Kolhapur,485,1,2,44000000,Villa,28,Semi-furnished,Resale,1,2,2,Gym
+Amravati,3085,1,2,4100000,Penthouse,25,Furnished,Resale,7,40,3,Gym
+Aurangabad,3650,3,4,37500000,Apartment,0,Furnished,Resale,12,29,0,Gym
+Amravati,3331,4,1,31800000,Penthouse,18,Furnished,New Booking,29,29,0,Mall Nearby
+Thane,3018,1,1,6400000,Apartment,25,Semi-furnished,New Booking,12,34,2,School Nearby
+Aurangabad,2135,5,2,7500000,Independent House,28,Semi-furnished,Resale,17,39,1,School Nearby
+Pune,4315,2,1,13000000,Studio Apartment,7,Unfurnished,Resale,12,29,3,School Nearby
+Thane,4900,2,2,4100000,Independent House,19,Semi-furnished,New Booking,20,26,0,Park
+Pune,1015,5,2,7400000,Studio Apartment,1,Furnished,Resale,8,23,0,Hospital Nearby
+Amravati,1459,4,4,39700000,Penthouse,15,Unfurnished,New Booking,1,24,0,Hospital Nearby
+Solapur,862,5,2,6000000,Studio Apartment,24,Semi-furnished,New Booking,19,20,2,School Nearby
+Kolhapur,3789,2,1,5400000,Studio Apartment,3,Unfurnished,Resale,21,39,1,Swimming Pool
+Solapur,4968,4,1,19900000,Villa,18,Semi-furnished,Resale,18,30,0,Mall Nearby
+Kolhapur,1609,4,3,29100000,Studio Apartment,23,Semi-furnished,Resale,29,33,3,Gym
+Nagpur,1186,4,4,8800000,Studio Apartment,15,Semi-furnished,New Booking,16,25,1,Swimming Pool
+Aurangabad,343,4,4,5700000,Apartment,14,Semi-furnished,New Booking,25,37,1,Park
+Kolhapur,4315,3,4,31400000,Penthouse,16,Unfurnished,Resale,10,37,3,Hospital Nearby
+Amravati,926,2,1,1000000,Apartment,12,Semi-furnished,Resale,25,29,1,Mall Nearby
+Amravati,1050,3,1,20100000,Villa,29,Semi-furnished,New Booking,4,20,2,Swimming Pool
+Pune,3786,2,1,6800000,Apartment,25,Furnished,Resale,13,29,2,Gym
+Nagpur,2934,2,1,13600000,Independent House,11,Unfurnished,New Booking,1,10,3,Mall Nearby
+Amravati,4235,4,2,35100000,Independent House,4,Semi-furnished,New Booking,1,14,0,Park
+Kolhapur,3218,5,4,5000000,Penthouse,8,Unfurnished,New Booking,8,17,0,Gym
+Thane,1676,3,1,33800000,Apartment,14,Furnished,New Booking,1,5,3,Swimming Pool
+Amravati,540,2,1,36200000,Apartment,25,Unfurnished,Resale,6,33,2,Hospital Nearby
+Nashik,3667,1,3,47500000,Independent House,28,Unfurnished,Resale,4,35,0,Gym
+Nashik,1933,2,2,22100000,Villa,3,Furnished,New Booking,19,39,2,Mall Nearby
+Sangli,2605,4,4,12400000,Studio Apartment,30,Furnished,New Booking,5,25,0,Mall Nearby
+Solapur,1190,4,1,4300000,Apartment,2,Furnished,Resale,5,29,2,School Nearby
+Amravati,3142,3,2,27700000,Studio Apartment,30,Unfurnished,Resale,3,35,2,Park
+Thane,4026,5,2,16100000,Independent House,2,Semi-furnished,New Booking,26,30,2,School Nearby
+Sangli,3979,4,3,41300000,Apartment,23,Furnished,New Booking,7,24,2,Hospital Nearby
+Amravati,1207,5,1,42600000,Apartment,3,Furnished,New Booking,29,33,3,School Nearby
+Pune,3533,3,1,25200000,Penthouse,0,Furnished,New Booking,7,19,1,Park
+Sangli,4539,1,2,17100000,Penthouse,16,Unfurnished,Resale,10,18,0,Hospital Nearby
+Mumbai,397,5,4,41500000,Independent House,6,Semi-furnished,Resale,21,39,1,Mall Nearby
+Sangli,3406,2,1,34000000,Studio Apartment,28,Furnished,Resale,22,33,0,Gym
+Solapur,1221,5,3,1100000,Penthouse,10,Unfurnished,New Booking,15,23,1,Mall Nearby
+Amravati,4130,3,4,24700000,Villa,14,Furnished,Resale,16,18,3,Swimming Pool
+Solapur,4917,3,1,11900000,Independent House,30,Semi-furnished,Resale,9,39,3,Gym
+Aurangabad,4256,3,1,44700000,Villa,11,Furnished,New Booking,20,26,3,Hospital Nearby
+Nagpur,3003,2,4,4400000,Independent House,15,Unfurnished,New Booking,2,22,2,School Nearby
+Sangli,3475,2,4,31000000,Studio Apartment,25,Furnished,Resale,5,15,0,Hospital Nearby
+Solapur,3090,3,4,18300000,Penthouse,18,Unfurnished,Resale,19,38,2,Swimming Pool
+Nashik,2033,5,3,30200000,Villa,16,Semi-furnished,Resale,16,32,2,Gym
+Nagpur,1873,1,4,1700000,Apartment,16,Unfurnished,Resale,5,15,0,Gym
+Kolhapur,1272,1,2,37000000,Apartment,30,Unfurnished,New Booking,9,37,3,Hospital Nearby
+Amravati,4236,5,4,21000000,Studio Apartment,1,Furnished,Resale,24,25,1,Mall Nearby
+Thane,3845,3,3,45000000,Independent House,1,Unfurnished,Resale,21,39,1,School Nearby
+Amravati,4431,3,3,18700000,Studio Apartment,29,Unfurnished,Resale,17,30,0,School Nearby
+Sangli,3942,5,1,32900000,Apartment,21,Furnished,Resale,30,31,0,Mall Nearby
+Kolhapur,2190,1,1,12400000,Studio Apartment,24,Unfurnished,New Booking,18,18,3,Swimming Pool
+Mumbai,3518,3,1,16600000,Studio Apartment,26,Furnished,Resale,17,28,2,Park
+Nagpur,1798,4,4,22800000,Apartment,11,Unfurnished,Resale,7,27,2,Mall Nearby
+Nagpur,1399,5,1,11500000,Apartment,1,Semi-furnished,New Booking,28,33,3,Mall Nearby
+Kolhapur,4526,5,3,48000000,Villa,3,Furnished,New Booking,3,33,0,Gym
+Amravati,583,3,4,1100000,Studio Apartment,2,Unfurnished,New Booking,21,29,0,Mall Nearby
+Solapur,889,1,4,22500000,Penthouse,12,Unfurnished,New Booking,8,19,3,Mall Nearby
+Nagpur,998,3,3,19700000,Independent House,21,Furnished,New Booking,12,27,1,Park
+Mumbai,2536,5,2,43300000,Villa,13,Semi-furnished,New Booking,26,40,2,Swimming Pool
+Mumbai,3649,5,3,30900000,Studio Apartment,21,Semi-furnished,New Booking,7,25,0,Gym
+Pune,1885,4,2,46200000,Penthouse,7,Semi-furnished,Resale,19,27,2,Park
+Sangli,424,2,4,22600000,Apartment,4,Furnished,Resale,13,33,2,Mall Nearby
+Amravati,1161,2,3,29100000,Villa,27,Furnished,Resale,6,11,3,Park
+Nashik,4075,1,4,37100000,Penthouse,27,Semi-furnished,New Booking,27,34,2,Hospital Nearby
+Kolhapur,560,3,3,46000000,Penthouse,17,Furnished,New Booking,29,39,3,Mall Nearby
+Mumbai,1486,2,4,10200000,Studio Apartment,27,Semi-furnished,Resale,1,27,2,Mall Nearby
+Mumbai,4284,5,2,36000000,Independent House,9,Furnished,Resale,14,31,2,Hospital Nearby
+Solapur,3670,2,1,7600000,Studio Apartment,29,Semi-furnished,New Booking,26,29,2,School Nearby
+Thane,4897,5,1,46100000,Studio Apartment,0,Unfurnished,Resale,1,31,0,Swimming Pool
+Kolhapur,2573,2,3,3800000,Apartment,21,Unfurnished,Resale,24,36,3,Mall Nearby
+Aurangabad,2405,1,3,28000000,Independent House,0,Unfurnished,Resale,23,30,3,Swimming Pool
+Nagpur,3441,2,1,48700000,Independent House,29,Semi-furnished,Resale,16,27,0,Mall Nearby
+Sangli,4057,4,1,14400000,Apartment,3,Semi-furnished,New Booking,19,24,3,Hospital Nearby
+Kolhapur,4830,3,1,16700000,Studio Apartment,30,Semi-furnished,Resale,13,15,3,Hospital Nearby
+Pune,2707,3,4,6900000,Apartment,18,Unfurnished,Resale,10,23,0,Gym
+Mumbai,4306,1,3,16800000,Independent House,13,Semi-furnished,New Booking,21,39,1,Hospital Nearby
+Thane,1351,2,4,50000000,Apartment,24,Unfurnished,Resale,17,19,3,Mall Nearby
+Solapur,3761,4,2,25300000,Villa,0,Semi-furnished,Resale,16,26,0,Park
+Kolhapur,3761,2,4,30500000,Studio Apartment,0,Unfurnished,New Booking,16,22,1,Swimming Pool
+Mumbai,4741,1,3,28000000,Studio Apartment,18,Furnished,Resale,30,36,3,Gym
+Aurangabad,4442,5,4,6700000,Independent House,30,Furnished,New Booking,29,30,0,Swimming Pool
+Nashik,2731,5,1,12200000,Apartment,12,Furnished,New Booking,3,30,3,Mall Nearby
+Sangli,1857,4,1,3200000,Villa,28,Unfurnished,New Booking,3,18,0,Gym
+Nagpur,2054,4,3,7700000,Apartment,28,Unfurnished,Resale,16,19,0,School Nearby
+Kolhapur,3297,2,4,12100000,Penthouse,27,Furnished,New Booking,4,33,3,Gym
+Nagpur,4918,1,1,29000000,Studio Apartment,25,Unfurnished,New Booking,29,39,1,Mall Nearby
+Nashik,1133,4,3,5300000,Penthouse,24,Furnished,Resale,30,36,2,School Nearby
+Amravati,1044,2,3,26600000,Independent House,9,Furnished,New Booking,21,29,3,Park
+Amravati,1077,4,4,13700000,Apartment,11,Semi-furnished,Resale,6,8,1,Swimming Pool
+Pune,1285,1,4,18600000,Villa,24,Unfurnished,Resale,27,35,0,Swimming Pool
+Pune,2536,3,4,27100000,Penthouse,10,Semi-furnished,New Booking,9,10,3,Gym
+Sangli,3776,3,1,5000000,Studio Apartment,15,Semi-furnished,New Booking,25,35,0,Swimming Pool
+Nagpur,1223,2,3,10600000,Penthouse,15,Semi-furnished,New Booking,8,20,2,Mall Nearby
+Mumbai,2136,5,2,44500000,Penthouse,4,Unfurnished,Resale,21,28,3,Swimming Pool
+Nagpur,2821,4,1,19600000,Penthouse,17,Unfurnished,Resale,14,14,3,Mall Nearby
+Amravati,1561,3,1,41400000,Independent House,17,Semi-furnished,Resale,7,8,1,Hospital Nearby
+Kolhapur,1817,2,2,38400000,Studio Apartment,10,Furnished,Resale,29,33,1,Mall Nearby
+Kolhapur,3112,1,2,11300000,Penthouse,12,Semi-furnished,Resale,29,38,1,Gym
+Nashik,2539,1,2,15900000,Independent House,2,Unfurnished,Resale,19,40,3,Hospital Nearby
+Aurangabad,1000,4,3,18400000,Penthouse,12,Unfurnished,New Booking,5,21,0,Park
+Nashik,3144,3,1,43800000,Studio Apartment,13,Semi-furnished,New Booking,15,39,1,Park
+Sangli,3826,2,2,5800000,Penthouse,26,Furnished,Resale,1,28,2,Swimming Pool
+Mumbai,3685,1,3,50000000,Studio Apartment,17,Unfurnished,New Booking,24,24,0,Hospital Nearby
+Nagpur,1305,5,2,38300000,Villa,26,Unfurnished,New Booking,29,39,3,Mall Nearby
+Aurangabad,4524,4,3,39900000,Independent House,17,Semi-furnished,New Booking,13,31,1,Park
+Solapur,3111,4,2,42500000,Penthouse,29,Unfurnished,New Booking,21,35,0,Swimming Pool
+Aurangabad,4143,4,4,37300000,Apartment,15,Unfurnished,New Booking,27,30,2,School Nearby
+Nagpur,4887,3,4,9600000,Studio Apartment,15,Furnished,Resale,6,9,2,Gym
+Aurangabad,4266,1,4,17700000,Apartment,26,Unfurnished,New Booking,15,23,2,School Nearby
+Aurangabad,1581,3,3,38800000,Studio Apartment,20,Semi-furnished,New Booking,29,30,0,Gym
+Thane,3081,5,2,32600000,Villa,29,Semi-furnished,New Booking,27,35,0,Park
+Solapur,2649,4,2,3200000,Studio Apartment,1,Semi-furnished,Resale,27,37,2,Mall Nearby
+Nashik,1863,1,1,30100000,Villa,4,Unfurnished,New Booking,25,33,0,Mall Nearby
+Sangli,4787,4,1,21200000,Villa,0,Furnished,New Booking,13,15,0,Park
+Mumbai,395,2,4,3500000,Villa,30,Furnished,New Booking,22,25,1,Swimming Pool
+Nashik,4797,5,3,16600000,Studio Apartment,8,Furnished,Resale,23,33,3,School Nearby
+Mumbai,3085,1,2,24600000,Penthouse,13,Semi-furnished,Resale,28,33,3,Swimming Pool
+Nagpur,2720,3,2,39900000,Villa,14,Unfurnished,New Booking,15,40,3,Gym
+Kolhapur,4480,2,3,19200000,Apartment,10,Unfurnished,New Booking,9,16,0,Mall Nearby
+Sangli,1806,2,3,44500000,Penthouse,22,Semi-furnished,New Booking,11,30,2,Park
+Nashik,4034,5,1,3100000,Independent House,12,Unfurnished,Resale,1,24,0,Gym
+Pune,4729,2,2,25000000,Penthouse,18,Unfurnished,Resale,7,32,0,Park
+Solapur,4569,5,1,47800000,Villa,9,Unfurnished,New Booking,1,25,2,Mall Nearby
+Mumbai,4098,5,2,26000000,Villa,16,Unfurnished,Resale,25,31,0,Gym
+Solapur,2644,2,3,48500000,Penthouse,23,Unfurnished,New Booking,4,10,2,Hospital Nearby
+Thane,2897,2,2,12600000,Penthouse,14,Furnished,Resale,26,32,3,Park
+Nashik,3205,2,1,37300000,Penthouse,14,Furnished,Resale,27,36,2,Park
+Thane,2191,4,4,1300000,Villa,16,Semi-furnished,Resale,15,39,2,Mall Nearby
+Aurangabad,2741,4,4,28800000,Studio Apartment,1,Unfurnished,Resale,17,25,0,Swimming Pool
+Pune,3556,3,1,27400000,Penthouse,2,Unfurnished,New Booking,22,36,3,Hospital Nearby
+Sangli,3776,4,4,34500000,Villa,1,Semi-furnished,New Booking,5,25,3,Mall Nearby
+Aurangabad,1180,1,1,33400000,Villa,0,Semi-furnished,Resale,25,33,1,School Nearby
+Solapur,4744,5,2,9400000,Independent House,2,Semi-furnished,Resale,24,34,3,Mall Nearby
+Mumbai,931,1,3,25300000,Villa,17,Unfurnished,New Booking,19,20,0,School Nearby
+Kolhapur,3117,4,4,46900000,Apartment,14,Furnished,New Booking,27,36,2,Park
+Kolhapur,2963,3,1,47000000,Independent House,28,Semi-furnished,Resale,10,18,2,Mall Nearby
+Sangli,3497,3,4,45100000,Independent House,9,Unfurnished,Resale,8,33,0,Gym
+Solapur,1910,1,1,15700000,Apartment,27,Furnished,Resale,4,7,1,School Nearby
+Thane,4443,3,2,38000000,Independent House,4,Furnished,Resale,6,7,1,Mall Nearby
+Aurangabad,3469,4,3,29700000,Apartment,7,Furnished,New Booking,27,29,1,School Nearby
+Solapur,4831,3,1,32000000,Studio Apartment,2,Furnished,New Booking,29,39,2,Park
+Pune,1943,1,1,3500000,Villa,20,Furnished,New Booking,26,32,2,Mall Nearby
+Nashik,3323,2,3,14100000,Independent House,30,Semi-furnished,New Booking,21,23,0,School Nearby
+Solapur,1609,3,1,1400000,Villa,26,Unfurnished,New Booking,10,10,2,Mall Nearby
+Amravati,3957,2,3,28100000,Villa,24,Unfurnished,New Booking,24,25,1,Swimming Pool
+Aurangabad,3448,4,1,28600000,Penthouse,3,Semi-furnished,New Booking,24,35,2,Gym
+Amravati,4732,3,2,47400000,Penthouse,14,Semi-furnished,New Booking,20,27,0,Hospital Nearby
+Sangli,1999,4,3,31400000,Independent House,5,Unfurnished,New Booking,20,24,2,Gym
+Nashik,2149,2,2,12900000,Villa,25,Semi-furnished,Resale,29,34,2,Gym
+Amravati,2800,5,2,36800000,Penthouse,29,Furnished,New Booking,7,33,1,Hospital Nearby
+Nashik,4178,2,3,35700000,Studio Apartment,29,Furnished,Resale,9,13,2,Mall Nearby
+Amravati,2109,1,2,24800000,Apartment,4,Semi-furnished,New Booking,16,25,3,Swimming Pool
+Sangli,326,4,3,34400000,Penthouse,21,Furnished,New Booking,11,15,2,Mall Nearby
+Solapur,4588,2,1,12300000,Penthouse,17,Semi-furnished,Resale,3,29,2,Park
+Amravati,2077,1,1,34500000,Independent House,1,Unfurnished,Resale,24,37,2,School Nearby
+Pune,855,1,3,37000000,Studio Apartment,30,Unfurnished,Resale,27,33,3,Swimming Pool
+Nashik,1311,5,2,7300000,Independent House,0,Semi-furnished,New Booking,4,5,1,Hospital Nearby
+Sangli,1333,1,3,21800000,Studio Apartment,13,Unfurnished,Resale,29,35,2,Swimming Pool
+Solapur,515,4,2,47700000,Penthouse,22,Unfurnished,New Booking,29,40,2,Gym
+Thane,2473,2,3,18700000,Apartment,25,Semi-furnished,Resale,30,34,3,Hospital Nearby
+Kolhapur,1170,4,2,36400000,Penthouse,11,Semi-furnished,Resale,26,29,3,Gym
+Pune,2150,2,4,45500000,Studio Apartment,1,Semi-furnished,Resale,17,17,0,Mall Nearby
+Pune,3976,3,1,49200000,Penthouse,6,Unfurnished,Resale,19,32,2,Gym
+Sangli,4992,4,1,31600000,Apartment,29,Unfurnished,Resale,19,23,2,Hospital Nearby
+Amravati,4191,5,2,4200000,Penthouse,18,Unfurnished,Resale,11,34,0,Swimming Pool
+Solapur,2113,4,4,21500000,Apartment,26,Furnished,Resale,28,28,3,Park
+Nashik,2567,5,3,24800000,Independent House,24,Semi-furnished,New Booking,9,37,0,Hospital Nearby
+Nagpur,769,3,1,27800000,Independent House,5,Semi-furnished,Resale,20,30,0,School Nearby
+Nashik,3920,2,1,4400000,Independent House,15,Furnished,Resale,20,30,2,Hospital Nearby
+Pune,1256,5,2,19700000,Villa,25,Unfurnished,Resale,4,6,2,Gym
+Nashik,1681,4,1,20400000,Independent House,24,Furnished,Resale,22,22,0,Park
+Amravati,2650,4,4,40000000,Apartment,9,Furnished,Resale,21,25,0,School Nearby
+Nashik,1169,1,1,35800000,Apartment,28,Unfurnished,New Booking,29,32,2,Swimming Pool
+Mumbai,2588,1,4,48400000,Apartment,26,Furnished,Resale,30,36,2,Swimming Pool
+Thane,3410,1,1,35800000,Villa,9,Unfurnished,Resale,1,40,1,Hospital Nearby
+Amravati,624,5,2,14600000,Penthouse,7,Furnished,Resale,21,25,2,School Nearby
+Aurangabad,4142,5,1,3000000,Studio Apartment,8,Furnished,New Booking,21,34,0,Mall Nearby
+Amravati,3953,5,2,32000000,Villa,9,Unfurnished,Resale,9,29,2,Hospital Nearby
+Amravati,3213,4,2,34300000,Studio Apartment,17,Semi-furnished,New Booking,22,30,1,Park
+Thane,403,5,4,15500000,Independent House,16,Semi-furnished,New Booking,29,32,0,Hospital Nearby
+Thane,2208,1,3,36500000,Independent House,28,Unfurnished,Resale,23,24,3,Swimming Pool
+Solapur,3549,1,4,48300000,Independent House,3,Semi-furnished,Resale,25,33,0,Hospital Nearby
+Aurangabad,4272,4,3,2100000,Independent House,6,Semi-furnished,Resale,16,25,2,Mall Nearby
+Pune,1551,3,2,35900000,Independent House,28,Unfurnished,New Booking,7,18,1,School Nearby
+Nagpur,2927,3,1,47300000,Independent House,27,Furnished,New Booking,11,36,2,Mall Nearby
+Aurangabad,1869,2,3,47500000,Apartment,22,Furnished,New Booking,18,34,0,School Nearby
+Mumbai,4232,3,2,47500000,Apartment,20,Semi-furnished,Resale,26,33,0,Hospital Nearby
+Mumbai,3070,5,3,1500000,Independent House,11,Semi-furnished,Resale,12,39,0,Mall Nearby
+Kolhapur,3899,5,3,38100000,Studio Apartment,0,Furnished,Resale,13,34,2,Gym
+Solapur,3176,3,3,10900000,Villa,0,Unfurnished,Resale,4,8,3,Park
+Solapur,2046,2,1,10800000,Studio Apartment,12,Semi-furnished,Resale,27,36,2,Mall Nearby
+Nagpur,1888,5,2,22100000,Independent House,6,Semi-furnished,Resale,22,22,1,Park
+Pune,3884,4,4,35300000,Villa,17,Unfurnished,New Booking,20,38,1,Park
+Thane,3611,4,3,17500000,Independent House,4,Semi-furnished,New Booking,2,12,1,School Nearby
+Solapur,3874,3,1,36300000,Penthouse,27,Unfurnished,Resale,25,35,0,Park
+Thane,2426,2,2,42300000,Villa,23,Unfurnished,New Booking,15,39,2,Swimming Pool
+Nagpur,2433,4,1,41400000,Independent House,17,Unfurnished,New Booking,4,14,1,Swimming Pool
+Thane,998,1,4,48100000,Penthouse,7,Semi-furnished,Resale,29,38,2,Hospital Nearby
+Kolhapur,4839,2,1,41800000,Apartment,21,Unfurnished,New Booking,17,36,0,Mall Nearby
+Amravati,2401,1,4,18000000,Apartment,4,Semi-furnished,Resale,25,26,0,School Nearby
+Thane,635,2,4,13200000,Independent House,5,Semi-furnished,New Booking,29,40,0,Swimming Pool
+Pune,3216,1,1,8600000,Apartment,30,Furnished,Resale,8,11,3,Hospital Nearby
+Aurangabad,1392,4,3,38600000,Villa,26,Semi-furnished,New Booking,18,40,3,Hospital Nearby
+Mumbai,4401,1,1,2900000,Penthouse,3,Semi-furnished,New Booking,8,10,3,Park
+Nashik,4558,2,1,9000000,Apartment,14,Furnished,Resale,25,39,2,Park
+Aurangabad,4537,1,1,40100000,Penthouse,19,Unfurnished,Resale,24,30,0,Park
+Amravati,3794,5,2,32900000,Penthouse,15,Unfurnished,New Booking,5,19,0,Mall Nearby
+Pune,2366,1,1,29800000,Studio Apartment,30,Semi-furnished,Resale,8,11,2,Mall Nearby
+Thane,421,3,2,4100000,Independent House,22,Unfurnished,Resale,14,38,0,Hospital Nearby
+Nagpur,526,2,4,47100000,Studio Apartment,14,Furnished,New Booking,9,17,3,Mall Nearby
+Aurangabad,4858,2,1,24500000,Independent House,14,Furnished,Resale,23,33,0,School Nearby
+Pune,301,4,2,41300000,Studio Apartment,1,Semi-furnished,Resale,26,34,1,Park
+Aurangabad,2880,1,3,2100000,Villa,1,Semi-furnished,Resale,9,19,3,School Nearby
+Nagpur,628,3,3,1200000,Apartment,14,Furnished,New Booking,4,39,2,Swimming Pool
+Amravati,2111,2,3,45600000,Apartment,25,Semi-furnished,Resale,16,27,3,Mall Nearby
+Mumbai,3635,4,1,12400000,Studio Apartment,25,Unfurnished,Resale,11,21,0,School Nearby
+Thane,447,2,4,13200000,Apartment,11,Semi-furnished,New Booking,26,35,0,Hospital Nearby
+Nashik,4383,3,1,15700000,Apartment,19,Unfurnished,Resale,12,21,2,Park
+Sangli,4680,4,3,4800000,Villa,14,Semi-furnished,Resale,1,38,3,School Nearby
+Amravati,1960,3,4,16600000,Independent House,26,Semi-furnished,Resale,28,40,0,Hospital Nearby
+Nashik,3408,2,4,2600000,Apartment,6,Furnished,Resale,11,29,2,Park
+Kolhapur,1194,4,1,47500000,Independent House,27,Unfurnished,New Booking,27,29,2,School Nearby
+Mumbai,4010,3,2,49800000,Villa,7,Furnished,Resale,6,26,2,Mall Nearby
+Pune,3615,3,4,40700000,Studio Apartment,25,Furnished,Resale,6,24,1,Hospital Nearby
+Aurangabad,3182,4,4,47300000,Penthouse,27,Furnished,Resale,23,30,3,Gym
+Kolhapur,3073,5,4,7400000,Studio Apartment,5,Unfurnished,New Booking,2,10,2,Gym
+Amravati,589,2,4,43100000,Apartment,13,Unfurnished,New Booking,3,12,0,School Nearby
+Thane,3159,5,1,27000000,Villa,25,Furnished,Resale,16,22,2,Mall Nearby
+Solapur,4852,3,2,34200000,Apartment,28,Semi-furnished,New Booking,26,37,2,Park
+Nashik,4067,2,1,36100000,Independent House,13,Unfurnished,Resale,4,13,3,Swimming Pool
+Nashik,3247,5,2,43900000,Penthouse,20,Semi-furnished,Resale,21,23,0,School Nearby
+Solapur,4241,1,1,23200000,Studio Apartment,25,Semi-furnished,New Booking,11,28,2,Park
+Mumbai,452,2,2,47300000,Studio Apartment,17,Furnished,Resale,8,16,1,Hospital Nearby
+Aurangabad,2640,4,4,12700000,Penthouse,14,Semi-furnished,New Booking,16,39,3,Hospital Nearby
+Solapur,1626,1,3,42900000,Apartment,11,Semi-furnished,Resale,8,8,1,Hospital Nearby
+Solapur,886,1,2,24400000,Studio Apartment,5,Semi-furnished,New Booking,26,30,0,Swimming Pool
+Mumbai,1790,2,4,40700000,Villa,9,Furnished,New Booking,10,21,0,Hospital Nearby
+Solapur,4384,3,1,3700000,Apartment,16,Unfurnished,Resale,13,25,3,Hospital Nearby
+Sangli,2488,1,4,2200000,Apartment,28,Unfurnished,Resale,13,30,1,Swimming Pool
+Aurangabad,1821,3,3,36900000,Apartment,7,Unfurnished,Resale,8,8,3,Swimming Pool
+Thane,4482,3,3,32400000,Apartment,13,Furnished,New Booking,23,34,3,Park
+Nagpur,4621,4,3,29100000,Independent House,28,Semi-furnished,New Booking,19,36,3,Swimming Pool
+Amravati,3025,3,2,43900000,Villa,1,Semi-furnished,Resale,1,16,1,Hospital Nearby
+Nagpur,4094,3,3,9700000,Independent House,13,Semi-furnished,New Booking,6,34,2,Hospital Nearby
+Kolhapur,622,1,1,44800000,Penthouse,12,Furnished,Resale,30,40,3,Gym
+Sangli,3669,3,1,44000000,Independent House,12,Furnished,Resale,22,23,2,Swimming Pool
+Nagpur,1738,2,1,47900000,Penthouse,25,Furnished,New Booking,17,24,0,Hospital Nearby
+Amravati,3344,3,4,26700000,Villa,19,Semi-furnished,New Booking,10,29,3,Mall Nearby
+Pune,985,5,3,10400000,Independent House,16,Furnished,New Booking,9,15,2,Mall Nearby
+Amravati,3990,1,3,47600000,Studio Apartment,4,Furnished,New Booking,19,40,2,Swimming Pool
+Mumbai,3481,1,3,3000000,Villa,5,Furnished,Resale,27,40,2,Gym
+Mumbai,3057,4,4,4300000,Penthouse,21,Unfurnished,New Booking,4,34,2,Hospital Nearby
+Nagpur,2333,5,4,26700000,Penthouse,13,Semi-furnished,Resale,27,35,0,Park
+Thane,3707,3,2,22600000,Independent House,26,Semi-furnished,Resale,24,28,2,Gym
+Pune,940,3,4,41700000,Penthouse,23,Furnished,Resale,24,27,2,Swimming Pool
+Mumbai,4503,1,3,22600000,Apartment,20,Unfurnished,Resale,13,13,2,Gym
+Pune,1501,3,3,36700000,Villa,15,Furnished,New Booking,17,40,1,Mall Nearby
+Pune,1800,4,3,10000000,Apartment,2,Unfurnished,New Booking,24,33,1,Gym
+Thane,3119,3,3,39800000,Studio Apartment,25,Furnished,New Booking,12,24,3,Mall Nearby
+Kolhapur,4307,2,2,24100000,Studio Apartment,28,Unfurnished,Resale,29,39,2,Mall Nearby
+Mumbai,2582,4,2,10500000,Apartment,29,Furnished,New Booking,21,33,2,Park
+Nashik,2574,2,4,44000000,Independent House,1,Furnished,Resale,21,39,1,School Nearby
+Pune,2684,4,1,18000000,Villa,19,Furnished,Resale,14,28,2,Mall Nearby
+Pune,4233,5,3,22400000,Apartment,16,Furnished,Resale,13,39,1,Swimming Pool
+Amravati,4112,3,1,47000000,Penthouse,15,Semi-furnished,New Booking,13,30,1,School Nearby
+Sangli,4468,2,3,38300000,Independent House,1,Furnished,Resale,21,33,2,School Nearby
+Solapur,3134,3,2,4000000,Studio Apartment,5,Unfurnished,New Booking,6,6,3,Gym
+Kolhapur,1226,3,1,34200000,Studio Apartment,9,Furnished,New Booking,30,40,1,Mall Nearby
+Nashik,1435,1,2,10800000,Villa,19,Semi-furnished,New Booking,9,39,1,Mall Nearby
+Nashik,780,4,4,25600000,Apartment,29,Furnished,New Booking,4,16,1,School Nearby
+Mumbai,4886,2,2,1800000,Apartment,18,Furnished,New Booking,27,31,0,Mall Nearby
+Sangli,2606,4,1,12100000,Apartment,25,Furnished,Resale,17,25,3,Hospital Nearby
+Nashik,1906,2,1,48600000,Apartment,6,Unfurnished,New Booking,5,28,1,Swimming Pool
+Pune,4600,2,1,21800000,Villa,4,Semi-furnished,Resale,3,15,1,Gym
+Aurangabad,4759,5,4,41700000,Independent House,20,Furnished,Resale,6,31,3,Park
+Pune,3145,2,1,6400000,Independent House,17,Furnished,Resale,19,37,2,Park
+Pune,2688,1,4,34600000,Villa,28,Unfurnished,Resale,23,29,3,Park
+Nagpur,4501,3,4,27400000,Villa,21,Semi-furnished,Resale,5,32,2,Park
+Pune,3419,5,2,21200000,Studio Apartment,5,Unfurnished,Resale,3,35,0,School Nearby
+Mumbai,658,1,3,41600000,Independent House,25,Unfurnished,Resale,20,29,2,School Nearby
+Thane,4023,4,4,9600000,Studio Apartment,5,Unfurnished,Resale,12,32,0,Hospital Nearby
+Kolhapur,2891,3,1,10400000,Villa,0,Unfurnished,New Booking,5,23,0,School Nearby
+Aurangabad,2272,5,3,25400000,Apartment,7,Furnished,New Booking,20,28,0,Swimming Pool
+Amravati,383,3,3,20800000,Studio Apartment,1,Unfurnished,Resale,11,19,0,School Nearby
+Mumbai,4177,3,1,33800000,Penthouse,6,Unfurnished,Resale,7,12,1,School Nearby
+Nashik,318,4,4,47400000,Studio Apartment,16,Unfurnished,New Booking,23,24,1,Mall Nearby
+Sangli,918,2,4,43600000,Apartment,27,Furnished,Resale,14,15,2,Mall Nearby
+Amravati,706,3,2,29900000,Studio Apartment,24,Furnished,New Booking,10,24,0,Mall Nearby
+Aurangabad,3826,3,3,30500000,Independent House,22,Unfurnished,New Booking,12,14,2,Park
+Nagpur,1364,1,3,23300000,Villa,12,Furnished,New Booking,30,39,3,Park
+Pune,3347,4,2,15900000,Apartment,25,Semi-furnished,New Booking,19,29,3,School Nearby
+Aurangabad,1213,4,1,24700000,Villa,18,Semi-furnished,New Booking,4,32,2,Swimming Pool
+Nashik,3761,4,4,18200000,Villa,25,Furnished,New Booking,10,17,2,School Nearby
+Pune,2477,1,1,44600000,Penthouse,30,Unfurnished,New Booking,28,31,2,Hospital Nearby
+Solapur,2660,5,3,31900000,Independent House,27,Furnished,Resale,11,38,2,School Nearby
+Mumbai,4452,5,4,47600000,Independent House,0,Unfurnished,Resale,19,39,3,School Nearby
+Thane,3138,2,4,10700000,Apartment,25,Furnished,Resale,9,16,3,Swimming Pool
+Kolhapur,738,5,2,10700000,Apartment,30,Furnished,New Booking,24,27,1,Park
+Amravati,4653,3,4,1500000,Penthouse,4,Semi-furnished,New Booking,11,13,2,Swimming Pool
+Amravati,2553,5,4,6100000,Penthouse,14,Furnished,New Booking,24,30,3,Hospital Nearby
+Aurangabad,2079,2,4,25100000,Apartment,21,Unfurnished,Resale,27,29,2,Gym
+Amravati,1055,1,3,30900000,Penthouse,15,Furnished,New Booking,12,24,0,Park
+Mumbai,4701,1,4,37900000,Villa,14,Unfurnished,Resale,11,24,0,Park
+Thane,2787,3,3,47200000,Independent House,15,Unfurnished,New Booking,27,31,0,Swimming Pool
+Aurangabad,2881,3,4,40800000,Studio Apartment,12,Furnished,New Booking,15,38,2,School Nearby
+Nashik,3653,4,2,15300000,Studio Apartment,19,Furnished,Resale,10,31,3,Swimming Pool
+Kolhapur,1939,1,3,1400000,Villa,1,Unfurnished,Resale,8,32,2,Gym
+Nagpur,326,4,2,21700000,Villa,23,Furnished,Resale,10,26,2,Swimming Pool
+Mumbai,3721,4,3,16700000,Apartment,3,Furnished,Resale,10,38,2,School Nearby
+Thane,1282,1,3,17900000,Independent House,0,Furnished,Resale,23,33,1,Park
+Pune,2158,1,4,18500000,Villa,28,Semi-furnished,New Booking,21,27,1,Swimming Pool
+Nashik,1692,5,2,7400000,Independent House,3,Furnished,Resale,22,30,2,Swimming Pool
+Mumbai,2790,5,2,32300000,Apartment,28,Semi-furnished,Resale,6,39,1,Swimming Pool
+Nashik,4196,2,1,17900000,Villa,17,Semi-furnished,New Booking,7,32,1,Park
+Amravati,2021,5,4,34300000,Studio Apartment,23,Semi-furnished,New Booking,1,28,0,School Nearby
+Nagpur,4339,1,3,5000000,Independent House,21,Furnished,Resale,7,10,2,Swimming Pool
+Amravati,779,4,4,6500000,Apartment,24,Unfurnished,New Booking,12,19,1,Park
+Pune,700,5,1,47500000,Independent House,10,Unfurnished,Resale,8,27,2,Park
+Amravati,2968,5,3,26200000,Villa,18,Unfurnished,Resale,28,37,3,Mall Nearby
+Mumbai,1559,4,3,33000000,Studio Apartment,9,Semi-furnished,New Booking,24,29,0,Gym
+Thane,4960,4,3,14500000,Studio Apartment,11,Unfurnished,Resale,17,25,2,Mall Nearby
+Nashik,1161,2,2,40800000,Apartment,14,Furnished,Resale,12,36,0,Park
+Pune,2228,1,2,29200000,Independent House,10,Furnished,Resale,24,32,0,Gym
+Aurangabad,1063,2,2,28100000,Penthouse,19,Semi-furnished,Resale,21,38,1,Mall Nearby
+Nashik,3801,2,2,48100000,Apartment,15,Semi-furnished,New Booking,8,14,1,Park
+Nagpur,4440,5,4,29900000,Penthouse,1,Furnished,Resale,3,11,2,School Nearby
+Nagpur,922,1,4,27400000,Penthouse,3,Furnished,Resale,24,25,3,Hospital Nearby
+Aurangabad,885,5,2,43500000,Villa,29,Semi-furnished,New Booking,30,34,1,Hospital Nearby
+Nashik,4323,5,4,20100000,Penthouse,21,Furnished,New Booking,30,34,2,School Nearby
+Mumbai,4642,5,3,43000000,Penthouse,29,Furnished,Resale,26,27,2,Park
+Aurangabad,1816,1,2,41900000,Villa,10,Semi-furnished,Resale,13,21,1,School Nearby
+Aurangabad,3036,2,4,41300000,Studio Apartment,8,Semi-furnished,New Booking,11,21,1,School Nearby
+Sangli,3908,3,2,8700000,Studio Apartment,23,Unfurnished,New Booking,19,30,0,Park
+Nashik,2902,3,1,9900000,Villa,4,Unfurnished,Resale,9,17,0,Park
+Kolhapur,3193,3,4,48300000,Studio Apartment,9,Furnished,Resale,3,16,2,Hospital Nearby
+Amravati,1315,3,4,39800000,Apartment,13,Furnished,New Booking,27,39,0,Mall Nearby
+Thane,591,3,1,3900000,Studio Apartment,23,Unfurnished,New Booking,14,21,1,Gym
+Nagpur,353,2,3,13500000,Villa,27,Furnished,Resale,26,27,2,Mall Nearby
+Solapur,2620,3,1,20300000,Studio Apartment,18,Unfurnished,New Booking,15,37,1,Park
+Aurangabad,3781,1,4,21600000,Apartment,10,Semi-furnished,Resale,25,38,0,School Nearby
+Pune,4798,4,1,4600000,Penthouse,0,Unfurnished,Resale,27,28,1,Park
+Thane,4262,5,1,15400000,Villa,25,Unfurnished,New Booking,25,28,3,School Nearby
+Nagpur,3883,2,3,30500000,Villa,1,Unfurnished,Resale,30,34,0,Park
+Sangli,4744,3,4,44300000,Villa,11,Semi-furnished,Resale,15,20,2,Swimming Pool
+Amravati,2290,4,4,39900000,Penthouse,13,Furnished,Resale,12,13,1,School Nearby
+Amravati,2443,4,4,10200000,Independent House,24,Unfurnished,Resale,4,27,2,Park
+Nagpur,3958,3,1,26600000,Studio Apartment,8,Semi-furnished,Resale,9,10,2,Gym
+Aurangabad,4036,2,3,25400000,Penthouse,5,Semi-furnished,New Booking,16,33,0,School Nearby
+Amravati,2156,3,4,43300000,Studio Apartment,13,Semi-furnished,Resale,27,32,1,Mall Nearby
+Nashik,4374,4,4,3800000,Studio Apartment,28,Unfurnished,Resale,5,30,0,Park
+Amravati,1681,4,2,18500000,Villa,16,Furnished,New Booking,10,18,0,Mall Nearby
+Pune,2321,3,1,22500000,Apartment,12,Furnished,New Booking,29,31,2,School Nearby
+Sangli,1499,4,2,49000000,Independent House,14,Furnished,Resale,29,38,2,Park
+Sangli,3538,4,2,40200000,Apartment,17,Furnished,New Booking,24,27,0,Swimming Pool
+Nagpur,3103,2,2,15000000,Apartment,27,Furnished,New Booking,7,9,3,Gym
+Mumbai,3765,5,1,45200000,Penthouse,6,Unfurnished,New Booking,16,32,2,Swimming Pool
+Amravati,2783,3,3,5500000,Villa,2,Furnished,New Booking,7,14,3,Swimming Pool
+Mumbai,4674,5,2,28600000,Penthouse,2,Semi-furnished,Resale,13,23,2,Swimming Pool
+Sangli,1594,1,1,31400000,Villa,23,Unfurnished,Resale,3,10,0,Park
